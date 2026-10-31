@@ -1,0 +1,6 @@
+{
+  "name": "Narail Science Results Dashboard",
+  "description": "Interactive examination results analytics dashboard for 7 Science colleges in Narail (HSC 2026), featuring college comparisons, complete student database search, and subject-wise grade distribution analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

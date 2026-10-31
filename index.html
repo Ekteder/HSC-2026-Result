@@ -1,0 +1,852 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function () {
+        try {
+          var currentFetch = window.fetch ? window.fetch.bind(window) : undefined;
+          Object.defineProperty(window, 'fetch', {
+            configurable: true,
+            enumerable: true,
+            get: function () {
+              return currentFetch;
+            },
+            set: function (nextFetch) {
+              currentFetch = nextFetch;
+            }
+          });
+        } catch (err) {}
+
+        window.addEventListener(
+          'error',
+          function (event) {
+            var msg = String((event && event.message) || '');
+            var file = String((event && event.filename) || '');
+            if (
+              msg.indexOf('Cannot set property fetch') !== -1 ||
+              file.indexOf('chrome-extension://') !== -1
+            ) {
+              event.stopImmediatePropagation();
+              event.preventDefault();
+              return false;
+            }
+          },
+          true
+        );
+      })();
+    </script>
+    <title>Narail Science Results — Examination Analytics Dashboard</title>
+    <meta
+      name="description"
+      content="Interactive examination results analytics dashboard for 7 Science colleges in Narail (HSC 2026), featuring college comparisons, complete student database search, and subject-wise grade distribution analysis."
+    />
+    <meta property="og:title" content="Narail Science Results — Examination Analytics Dashboard" />
+    <meta
+      property="og:description"
+      content="Interactive examination results analytics dashboard for 7 Science colleges in Narail (HSC 2026), featuring college comparisons, complete student database search, and subject-wise grade distribution analysis."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Google Fonts: Plus Jakarta Sans & JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <!-- Mobile Backdrop -->
+      <div id="sidebar-backdrop" class="sidebar-backdrop" aria-hidden="true"></div>
+
+      <!-- Left Sidebar Navigation -->
+      <aside id="app-sidebar" class="sidebar" aria-label="Primary Sidebar Navigation">
+        <div class="sidebar-brand">
+          <div class="brand-mark" aria-hidden="true">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+              <path d="M6 12v5c3 3 9 3 12 0v-5" />
+            </svg>
+          </div>
+          <div class="brand-text">
+            <span class="brand-title">Narail Science</span>
+            <span class="brand-subtitle">HSC 2026 · 7 Colleges</span>
+          </div>
+          <button id="sidebar-close-btn" class="icon-btn mobile-only" aria-label="Close navigation menu">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 6 6 18M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+
+        <nav class="sidebar-nav" aria-label="Dashboard Sections">
+          <div class="nav-group-label">Analytics Views</div>
+          <button type="button" class="nav-item active" data-section="overview">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect width="7" height="9" x="3" y="3" rx="1" />
+              <rect width="7" height="5" x="14" y="3" rx="1" />
+              <rect width="7" height="9" x="14" y="12" rx="1" />
+              <rect width="7" height="5" x="3" y="16" rx="1" />
+            </svg>
+            <span>Overview</span>
+          </button>
+
+          <button type="button" class="nav-item" data-section="students">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
+              <circle cx="9" cy="7" r="4" />
+              <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
+              <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+            </svg>
+            <span>All Students</span>
+            <span id="sidebar-student-badge" class="nav-count">612</span>
+          </button>
+
+          <button type="button" class="nav-item" data-section="colleges">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 21h18" />
+              <path d="M5 21V7l7-4 7 4v14" />
+              <path d="M9 9h1M14 9h1M9 13h1M14 13h1M9 17h1M14 17h1" />
+            </svg>
+            <span>Colleges</span>
+            <span class="nav-count">7</span>
+          </button>
+
+          <button type="button" class="nav-item" data-section="subjects">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" />
+            </svg>
+            <span>Subject Analysis</span>
+            <span class="nav-count">10</span>
+          </button>
+        </nav>
+
+        <div class="sidebar-footer">
+          <div class="sidebar-summary-box">
+            <div class="sidebar-summary-row">
+              <span>Board / Group</span>
+              <strong>Jashore · Science</strong>
+            </div>
+            <div class="sidebar-summary-row">
+              <span>Passing Year</span>
+              <strong>2026</strong>
+            </div>
+            <div class="sidebar-summary-row">
+              <span>Verified Records</span>
+              <strong id="sidebar-verified-count">612 / 612</strong>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Workspace -->
+      <div class="main-wrapper">
+        <!-- Top Navigation Bar -->
+        <header class="topbar">
+          <div class="topbar-left">
+            <button id="mobile-menu-btn" class="icon-btn mobile-only" aria-label="Open navigation menu">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="3" y1="6" x2="21" y2="6" />
+                <line x1="3" y1="12" x2="21" y2="12" />
+                <line x1="3" y1="18" x2="21" y2="18" />
+              </svg>
+            </button>
+            <div class="topbar-titles">
+              <span class="topbar-site-title">Narail Science Results</span>
+              <span class="topbar-divider" aria-hidden="true">/</span>
+              <h1 id="current-section-title" class="topbar-section-title">Overview</h1>
+            </div>
+          </div>
+
+          <div class="topbar-right">
+            <!-- Global Quick Student Search -->
+            <div class="global-search-container" id="global-search-container">
+              <div class="global-search-input-wrap">
+                <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="11" cy="11" r="8" />
+                  <path d="m21 21-4.3-4.3" />
+                </svg>
+                <input
+                  type="search"
+                  id="global-student-search"
+                  class="global-search-input"
+                  placeholder="Quick find student by name, roll, parents..."
+                  autocomplete="off"
+                  aria-label="Global student search"
+                />
+                <kbd class="search-shortcut" title="Press / to focus">/</kbd>
+              </div>
+              <div id="global-search-dropdown" class="global-search-dropdown hidden" role="listbox" aria-label="Matching students"></div>
+            </div>
+
+            <div class="topbar-stat-indicator" title="Total students in unified dataset">
+              <span class="topbar-stat-label">Total Students:</span>
+              <strong id="topbar-total-students" class="topbar-stat-value">612</strong>
+            </div>
+          </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+          <!-- SECTION 1: OVERVIEW -->
+          <section id="section-overview" class="view-section active" aria-labelledby="overview-heading">
+            <div class="section-intro">
+              <div>
+                <h2 id="overview-heading" class="section-heading">Examination Performance Overview</h2>
+                <p class="section-description">
+                  Unified Science group examination analytics across all 7 colleges in Narail district.
+                </p>
+              </div>
+              <div class="section-actions">
+                <button type="button" class="btn btn-secondary" id="overview-explore-students-btn">
+                  Browse All 612 Students
+                </button>
+              </div>
+            </div>
+
+            <!-- A. KPI Cards -->
+            <div id="overview-kpi-grid" class="kpi-grid" aria-label="Key Performance Indicators"></div>
+
+            <!-- B & C. Charts Row: Result Distribution + College Performance Comparison -->
+            <div class="charts-grid-overview">
+              <!-- B. Overall Result Distribution -->
+              <div class="panel chart-panel">
+                <div class="panel-header">
+                  <div>
+                    <h3 class="panel-title">Overall Result Distribution</h3>
+                    <p class="panel-subtitle">Breakdown by PASS, FAIL, and ABSENT status</p>
+                  </div>
+                </div>
+                <div class="doughnut-layout">
+                  <div class="doughnut-canvas-wrap">
+                    <canvas id="chart-overall-distribution" aria-label="Overall Result Distribution Doughnut Chart"></canvas>
+                  </div>
+                  <div id="overall-distribution-legend" class="doughnut-stats-list"></div>
+                </div>
+              </div>
+
+              <!-- C. College Performance Comparison -->
+              <div class="panel chart-panel">
+                <div class="panel-header panel-header-wrap">
+                  <div>
+                    <h3 class="panel-title">College Performance Comparison</h3>
+                    <p class="panel-subtitle">Compare all 7 colleges by key examination metrics</p>
+                  </div>
+                  <div class="segmented-control" role="group" aria-label="Chart Metric Toggle">
+                    <button type="button" class="seg-btn active" data-chart-mode="total">Total Students</button>
+                    <button type="button" class="seg-btn" data-chart-mode="passRate">Pass %</button>
+                    <button type="button" class="seg-btn" data-chart-mode="passed">Passed Count</button>
+                  </div>
+                </div>
+                <div class="bar-canvas-wrap">
+                  <canvas id="chart-college-comparison" aria-label="College Performance Comparison Bar Chart"></canvas>
+                </div>
+              </div>
+            </div>
+
+            <!-- E. Quick Insights -->
+            <div class="panel insights-panel">
+              <div class="panel-header">
+                <div>
+                  <h3 class="panel-title">Quick Insights</h3>
+                  <p class="panel-subtitle">Key highlights automatically derived from the examination dataset</p>
+                </div>
+              </div>
+              <div id="overview-insights-grid" class="insights-grid"></div>
+            </div>
+
+            <!-- D. College Statistics Table -->
+            <div class="panel">
+              <div class="panel-header panel-header-wrap">
+                <div>
+                  <h3 class="panel-title">College Statistics Summary</h3>
+                  <p class="panel-subtitle">
+                    Click any column header to sort · Click any college row to open its detailed analysis
+                  </p>
+                </div>
+              </div>
+              <div class="table-responsive">
+                <table class="data-table" id="overview-college-table">
+                  <thead>
+                    <tr>
+                      <th data-sort-col="college" class="sortable">
+                        <span>College</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th data-sort-col="total" class="sortable text-right">
+                        <span>Total Students</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th data-sort-col="passed" class="sortable text-right">
+                        <span>Passed</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th data-sort-col="failed" class="sortable text-right">
+                        <span>Failed</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th data-sort-col="absent" class="sortable text-right">
+                        <span>Absent</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th data-sort-col="passRate" class="sortable text-right active-sort">
+                        <span>Pass Rate</span>
+                        <span class="sort-indicator">↓</span>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody id="overview-college-tbody"></tbody>
+                  <tfoot id="overview-college-tfoot"></tfoot>
+                </table>
+              </div>
+            </div>
+
+            <!-- Data Accuracy & Validation Information -->
+            <div class="panel data-validation-panel">
+              <div class="panel-header panel-header-wrap">
+                <div>
+                  <h3 class="panel-title">Data Information & Integrity Verification</h3>
+                  <p class="panel-subtitle">
+                    Automated audit of the 7 source JSON files and HTML grade sheet parser
+                  </p>
+                </div>
+                <span class="verification-status-text">All 18 Validation Checks Passed</span>
+              </div>
+              <div id="data-validation-summary" class="validation-summary-grid"></div>
+              <div class="table-responsive mt-16">
+                <table class="data-table compact-table">
+                  <thead>
+                    <tr>
+                      <th>Source JSON File</th>
+                      <th>Assigned College</th>
+                      <th>EIIN</th>
+                      <th class="text-right">Records Found</th>
+                      <th class="text-right">Successfully Parsed</th>
+                      <th class="text-right">Parsing Issues</th>
+                    </tr>
+                  </thead>
+                  <tbody id="data-source-files-tbody"></tbody>
+                </table>
+              </div>
+            </div>
+          </section>
+
+          <!-- SECTION 2: ALL STUDENTS -->
+          <section id="section-students" class="view-section" aria-labelledby="students-heading">
+            <div class="section-intro">
+              <div>
+                <h2 id="students-heading" class="section-heading">Complete Student Database</h2>
+                <p class="section-description">
+                  Browse, search, and filter all 612 Science students across all 7 colleges in Narail. Click any student row for full subject grades.
+                </p>
+              </div>
+            </div>
+
+            <!-- Search, Filters & Sorting Toolbar -->
+            <div class="panel filter-panel">
+              <div class="filter-bar-top">
+                <div class="search-field-wrap">
+                  <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8" />
+                    <path d="m21 21-4.3-4.3" />
+                  </svg>
+                  <input
+                    type="search"
+                    id="students-search-input"
+                    class="form-input search-input-main"
+                    placeholder="Search by student name, father's name, mother's name, roll, registration, or college..."
+                    autocomplete="off"
+                  />
+                  <button type="button" id="students-reset-search-btn" class="clear-input-btn hidden" title="Reset search">
+                    Reset Search
+                  </button>
+                </div>
+
+                <div class="filter-actions-group">
+                  <button type="button" id="students-clear-filters-btn" class="btn btn-secondary">
+                    Clear All Filters
+                  </button>
+                </div>
+              </div>
+
+              <div class="filter-controls-grid">
+                <div class="filter-group">
+                  <label for="filter-college">College</label>
+                  <select id="filter-college" class="form-select">
+                    <option value="ALL">All Colleges (7)</option>
+                  </select>
+                </div>
+
+                <div class="filter-group">
+                  <label for="filter-result">Examination Result</label>
+                  <select id="filter-result" class="form-select">
+                    <option value="ALL">All Results</option>
+                    <option value="PASS">PASS</option>
+                    <option value="FAIL">FAIL</option>
+                    <option value="ABSENT">ABSENT</option>
+                  </select>
+                </div>
+
+                <div class="filter-group">
+                  <label for="filter-gpa">GPA Range</label>
+                  <select id="filter-gpa" class="form-select">
+                    <option value="ALL">All GPA</option>
+                    <option value="GPA_5">GPA 5.00</option>
+                    <option value="GPA_4_499">GPA 4.00–4.99</option>
+                    <option value="GPA_3_399">GPA 3.00–3.99</option>
+                    <option value="GPA_BELOW_3">Below 3.00</option>
+                  </select>
+                </div>
+
+                <div class="filter-group">
+                  <label for="sort-students-select">Sort By</label>
+                  <select id="sort-students-select" class="form-select">
+                    <option value="roll-asc">Roll Number (Ascending)</option>
+                    <option value="roll-desc">Roll Number (Descending)</option>
+                    <option value="gpa-desc">GPA (Highest First)</option>
+                    <option value="gpa-asc">GPA (Lowest First)</option>
+                    <option value="name-asc">Student Name (A–Z)</option>
+                    <option value="name-desc">Student Name (Z–A)</option>
+                    <option value="college-asc">College Name (A–Z)</option>
+                    <option value="college-desc">College Name (Z–A)</option>
+                    <option value="result-asc">Result (PASS → FAIL → ABSENT)</option>
+                  </select>
+                </div>
+
+                <div class="filter-group">
+                  <label for="students-per-page">Rows Per Page</label>
+                  <select id="students-per-page" class="form-select">
+                    <option value="25" selected>25 rows</option>
+                    <option value="50">50 rows</option>
+                    <option value="100">100 rows</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="filter-status-bar">
+                <div id="students-matching-summary" class="matching-summary">
+                  Showing <strong>1–25</strong> of <strong>612</strong> matching students
+                </div>
+                <div id="students-active-filters-summary" class="active-filters-text"></div>
+              </div>
+            </div>
+
+            <!-- Students Table -->
+            <div class="panel table-panel">
+              <div class="table-responsive">
+                <table class="data-table students-table" id="all-students-table">
+                  <thead>
+                    <tr>
+                      <th class="col-sl">SL</th>
+                      <th class="sortable" data-student-sort="college">
+                        <span>College</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th class="sortable" data-student-sort="name">
+                        <span>Student Name</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th>Father's Name</th>
+                      <th>Mother's Name</th>
+                      <th class="sortable text-right" data-student-sort="roll">
+                        <span>Roll</span>
+                        <span class="sort-indicator">↑</span>
+                      </th>
+                      <th class="text-right">Registration</th>
+                      <th class="sortable text-center" data-student-sort="result">
+                        <span>Result</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                      <th class="sortable text-right" data-student-sort="gpa">
+                        <span>GPA</span>
+                        <span class="sort-indicator"></span>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody id="all-students-tbody"></tbody>
+                </table>
+              </div>
+
+              <!-- Empty State -->
+              <div id="students-empty-state" class="empty-state hidden">
+                <div class="empty-state-icon" aria-hidden="true">
+                  <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+                    <circle cx="11" cy="11" r="8" />
+                    <path d="m21 21-4.3-4.3" />
+                    <path d="M8 11h6" />
+                  </svg>
+                </div>
+                <h3 class="empty-state-title">No matching students found</h3>
+                <p class="empty-state-text">
+                  No student records match your current search query and filter criteria. Try adjusting your search term or clearing active filters.
+                </p>
+                <button type="button" id="empty-state-reset-btn" class="btn btn-primary">
+                  Reset Search & Filters
+                </button>
+              </div>
+
+              <!-- Pagination Footer -->
+              <div id="students-pagination-bar" class="pagination-bar">
+                <div class="pagination-meta">
+                  Page <strong id="page-current-num">1</strong> of <strong id="page-total-num">25</strong>
+                  <span class="sep">·</span>
+                  <span id="page-total-records">612 matching students</span>
+                </div>
+                <div class="pagination-controls">
+                  <button type="button" id="page-prev-btn" class="btn btn-pagination" disabled>
+                    ← Previous
+                  </button>
+                  <div id="page-numbers-container" class="page-numbers"></div>
+                  <button type="button" id="page-next-btn" class="btn btn-pagination">
+                    Next →
+                  </button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- SECTION 3: COLLEGES -->
+          <section id="section-colleges" class="view-section" aria-labelledby="colleges-heading">
+            <!-- College Cards Grid View -->
+            <div id="colleges-grid-view">
+              <div class="section-intro">
+                <div>
+                  <h2 id="colleges-heading" class="section-heading">Individual College Analysis</h2>
+                  <p class="section-description">
+                    Compare all 7 Science colleges in Narail. Select any college card to inspect its GPA breakdown, subject performance, and student roster.
+                  </p>
+                </div>
+              </div>
+              <div id="colleges-cards-grid" class="colleges-cards-grid"></div>
+            </div>
+
+            <!-- Detailed Single College Dashboard View -->
+            <div id="college-detail-view" class="hidden">
+              <div class="college-detail-topbar">
+                <button type="button" id="back-to-colleges-btn" class="btn btn-secondary">
+                  ← All Colleges
+                </button>
+                <div class="college-switcher-wrap">
+                  <label for="college-detail-switcher" class="sr-only">Switch College</label>
+                  <select id="college-detail-switcher" class="form-select"></select>
+                </div>
+              </div>
+
+              <div id="college-detail-header" class="college-detail-header"></div>
+
+              <!-- College Overview KPIs -->
+              <div id="college-detail-kpis" class="kpi-grid college-kpi-grid"></div>
+
+              <!-- Visual Analysis: 3 Charts -->
+              <div class="charts-grid-college">
+                <div class="panel chart-panel">
+                  <div class="panel-header">
+                    <div>
+                      <h3 class="panel-title">Result Distribution</h3>
+                      <p class="panel-subtitle">PASS, FAIL, and ABSENT proportion</p>
+                    </div>
+                  </div>
+                  <div class="doughnut-layout compact">
+                    <div class="doughnut-canvas-wrap small">
+                      <canvas id="chart-college-doughnut"></canvas>
+                    </div>
+                    <div id="college-doughnut-legend" class="doughnut-stats-list"></div>
+                  </div>
+                </div>
+
+                <div class="panel chart-panel">
+                  <div class="panel-header">
+                    <div>
+                      <h3 class="panel-title">GPA Distribution</h3>
+                      <p class="panel-subtitle">Breakdown of passed students by GPA tier</p>
+                    </div>
+                  </div>
+                  <div class="bar-canvas-wrap small">
+                    <canvas id="chart-college-gpa"></canvas>
+                  </div>
+                </div>
+
+                <div class="panel chart-panel chart-panel-full">
+                  <div class="panel-header">
+                    <div>
+                      <h3 class="panel-title">Subject-wise Grade Performance</h3>
+                      <p class="panel-subtitle">Grade distribution across subjects taken by students of this college</p>
+                    </div>
+                  </div>
+                  <div class="bar-canvas-wrap">
+                    <canvas id="chart-college-subjects"></canvas>
+                  </div>
+                </div>
+              </div>
+
+              <!-- College Student Roster -->
+              <div class="panel">
+                <div class="panel-header panel-header-wrap">
+                  <div>
+                    <h3 class="panel-title" id="college-roster-title">College Student List</h3>
+                    <p class="panel-subtitle">Search, filter, and sort students belonging to this college · Click any student for complete details</p>
+                  </div>
+                </div>
+
+                <div class="college-roster-controls">
+                  <div class="search-field-wrap">
+                    <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <circle cx="11" cy="11" r="8" />
+                      <path d="m21 21-4.3-4.3" />
+                    </svg>
+                    <input
+                      type="search"
+                      id="college-student-search"
+                      class="form-input search-input-main"
+                      placeholder="Search within college by student name, parents' names, or roll..."
+                      autocomplete="off"
+                    />
+                  </div>
+
+                  <div class="college-roster-filters">
+                    <select id="college-student-result-filter" class="form-select">
+                      <option value="ALL">All Results</option>
+                      <option value="PASS">PASS</option>
+                      <option value="FAIL">FAIL</option>
+                      <option value="ABSENT">ABSENT</option>
+                    </select>
+
+                    <select id="college-student-gpa-filter" class="form-select">
+                      <option value="ALL">All GPA</option>
+                      <option value="GPA_5">GPA 5.00</option>
+                      <option value="GPA_4_499">GPA 4.00–4.99</option>
+                      <option value="GPA_3_399">GPA 3.00–3.99</option>
+                      <option value="GPA_BELOW_3">Below 3.00</option>
+                    </select>
+
+                    <select id="college-student-sort" class="form-select">
+                      <option value="roll-asc">Roll (Ascending)</option>
+                      <option value="roll-desc">Roll (Descending)</option>
+                      <option value="gpa-desc">GPA (Highest First)</option>
+                      <option value="gpa-asc">GPA (Lowest First)</option>
+                      <option value="name-asc">Name (A–Z)</option>
+                      <option value="result-asc">Result Status</option>
+                    </select>
+
+                    <button type="button" id="college-student-reset-btn" class="btn btn-secondary">
+                      Reset
+                    </button>
+                  </div>
+                </div>
+
+                <div id="college-roster-count-bar" class="roster-count-bar"></div>
+
+                <div class="table-responsive">
+                  <table class="data-table students-table">
+                    <thead>
+                      <tr>
+                        <th class="col-sl">SL</th>
+                        <th>Student Name</th>
+                        <th>Father's Name</th>
+                        <th>Mother's Name</th>
+                        <th class="text-right">Roll</th>
+                        <th class="text-right">Registration</th>
+                        <th class="text-center">Result</th>
+                        <th class="text-right">GPA</th>
+                      </tr>
+                    </thead>
+                    <tbody id="college-students-tbody"></tbody>
+                  </table>
+                </div>
+                <div id="college-students-empty" class="empty-state hidden">
+                  <h3 class="empty-state-title">No students match your filter</h3>
+                  <p class="empty-state-text">Try clearing the search or result filter to view all students in this college.</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- SECTION 4: SUBJECT ANALYSIS -->
+          <section id="section-subjects" class="view-section" aria-labelledby="subjects-heading">
+            <div class="section-intro">
+              <div>
+                <h2 id="subjects-heading" class="section-heading">Subject-wise Grade Analysis</h2>
+                <p class="section-description">
+                  Explore grade distributions (A+, A, A-, B, C, D, F) across all 10 subjects. Missing grades from absent students are strictly excluded and never counted as F.
+                </p>
+              </div>
+              <div class="subject-filter-bar">
+                <label for="subject-college-filter" class="filter-inline-label">Filter by College:</label>
+                <select id="subject-college-filter" class="form-select">
+                  <option value="ALL">All Colleges (Unified Dataset)</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- Subject Summary Table -->
+            <div class="panel">
+              <div class="panel-header">
+                <div>
+                  <h3 class="panel-title">Overall Subject Grade Breakdown</h3>
+                  <p class="panel-subtitle" id="subject-table-subtitle">Showing actual recorded grades across All Colleges</p>
+                </div>
+              </div>
+              <div class="table-responsive">
+                <table class="data-table" id="subject-stats-table">
+                  <thead>
+                    <tr>
+                      <th>Subject</th>
+                      <th class="text-right">Graded Students</th>
+                      <th class="text-right grade-col-aplus">A+</th>
+                      <th class="text-right">A</th>
+                      <th class="text-right">A-</th>
+                      <th class="text-right">B</th>
+                      <th class="text-right">C</th>
+                      <th class="text-right">D</th>
+                      <th class="text-right grade-col-f">F</th>
+                      <th class="text-right">A+ Rate</th>
+                      <th class="text-right">Fail (F) Rate</th>
+                      <th class="text-right">Pass Rate</th>
+                    </tr>
+                  </thead>
+                  <tbody id="subject-stats-tbody"></tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Charts Grid for Subject Analysis -->
+            <div class="charts-grid-subjects">
+              <!-- 1. Stacked Grade Distribution by Subject -->
+              <div class="panel chart-panel chart-panel-full">
+                <div class="panel-header">
+                  <div>
+                    <h3 class="panel-title">1. Grade Distribution by Subject</h3>
+                    <p class="panel-subtitle">Stacked breakdown of A+, A, A-, B, C, D, and F grades per subject</p>
+                  </div>
+                </div>
+                <div class="bar-canvas-wrap tall">
+                  <canvas id="chart-subject-stacked"></canvas>
+                </div>
+              </div>
+
+              <!-- 2. Subject-wise A+ Percentage -->
+              <div class="panel chart-panel">
+                <div class="panel-header">
+                  <div>
+                    <h3 class="panel-title">2. Subject-wise A+ Percentage</h3>
+                    <p class="panel-subtitle">Percentage of graded students achieving A+ in each subject</p>
+                  </div>
+                </div>
+                <div class="bar-canvas-wrap">
+                  <canvas id="chart-subject-aplus"></canvas>
+                </div>
+              </div>
+
+              <!-- 3. Subject-wise F Percentage -->
+              <div class="panel chart-panel">
+                <div class="panel-header">
+                  <div>
+                    <h3 class="panel-title">3. Subject-wise F Percentage</h3>
+                    <p class="panel-subtitle">Percentage of graded students receiving an F grade in each subject</p>
+                  </div>
+                </div>
+                <div class="bar-canvas-wrap">
+                  <canvas id="chart-subject-f"></canvas>
+                </div>
+              </div>
+
+              <!-- 4. Subject Performance Comparison Across Colleges -->
+              <div class="panel chart-panel chart-panel-full">
+                <div class="panel-header panel-header-wrap">
+                  <div>
+                    <h3 class="panel-title">4. Subject Performance Comparison Across Colleges</h3>
+                    <p class="panel-subtitle">Compare Pass % and A+ % across all 7 colleges for any specific subject</p>
+                  </div>
+                  <div class="subject-compare-controls">
+                    <label for="subject-comparison-select" class="filter-inline-label">Select Subject:</label>
+                    <select id="subject-comparison-select" class="form-select"></select>
+                  </div>
+                </div>
+                <div class="bar-canvas-wrap">
+                  <canvas id="chart-subject-college-compare"></canvas>
+                </div>
+              </div>
+            </div>
+          </section>
+        </main>
+
+        <!-- Minimal Footer -->
+        <footer class="app-footer">
+          <div>
+            <span>Narail Science Results Dashboard</span>
+            <span class="sep">·</span>
+            <span>HSC Examination 2026 (Science Group)</span>
+          </div>
+          <div>
+            <span>612 Verified Student Records across 7 Colleges</span>
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    <!-- INDIVIDUAL STUDENT DETAILS MODAL -->
+    <div id="student-detail-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-student-name">
+      <div class="modal-card">
+        <div class="modal-header">
+          <div>
+            <div class="modal-kicker" id="modal-student-college">College Name</div>
+            <h2 id="modal-student-name" class="modal-title">Student Name</h2>
+          </div>
+          <div class="modal-header-actions">
+            <button type="button" id="modal-print-btn" class="btn btn-secondary btn-sm" title="Print Student Grade Sheet">
+              Print Sheet
+            </button>
+            <button type="button" id="modal-close-btn" class="icon-btn" aria-label="Close student details">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 6 6 18M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="modal-body" id="modal-body-content">
+          <!-- Academic Highlight Strip -->
+          <div class="modal-academic-banner" id="modal-academic-banner"></div>
+
+          <div class="modal-sections-grid">
+            <!-- Personal Information Section -->
+            <div class="modal-section">
+              <h3 class="modal-section-title">Personal & Institutional Information</h3>
+              <dl class="info-list" id="modal-personal-info"></dl>
+            </div>
+
+            <!-- Academic & Subject Grades Section -->
+            <div class="modal-section">
+              <h3 class="modal-section-title">Academic Information & Subject Grades</h3>
+              <div id="modal-grades-container"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" id="modal-return-btn" class="btn btn-primary">
+            Return to Table
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Vanilla JS Modules -->
+    <script src="./js/data.js"></script>
+    <script src="./js/dashboard.js"></script>
+    <script src="./js/students.js"></script>
+    <script src="./js/colleges.js"></script>
+    <script src="./js/subjects.js"></script>
+    <script src="./js/app.js"></script>
+  </body>
+</html>
