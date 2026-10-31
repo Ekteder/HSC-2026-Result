@@ -281,7 +281,8 @@
       return b.total - a.total;
     });
 
-    const labels = sorted.map((c) => c.college);
+    const isMobile = window.innerWidth <= 640;
+    const labels = sorted.map((c) => (isMobile ? c.shortName : c.college));
 
     let datasets = [];
     let xTitle = '';
@@ -328,7 +329,7 @@
           data: sorted.map((c) => Number(c.passRate.toFixed(2))),
           backgroundColor: '#2563eb',
           borderRadius: 4,
-          barThickness: 22
+          barThickness: isMobile ? 18 : 22
         }
       ];
     } else if (mode === 'passed') {
@@ -339,7 +340,7 @@
           data: sorted.map((c) => c.passed),
           backgroundColor: '#16a34a',
           borderRadius: 4,
-          barThickness: 22
+          barThickness: isMobile ? 18 : 22
         }
       ];
     }
@@ -373,7 +374,7 @@
               display: false
             },
             ticks: {
-              font: { size: 12, weight: '600' },
+              font: { size: isMobile ? 11 : 12, weight: '600' },
               color: '#0f172a'
             }
           }
@@ -390,6 +391,10 @@
           },
           tooltip: {
             callbacks: {
+              title: function (items) {
+                const idx = items[0].dataIndex;
+                return sorted[idx].college;
+              },
               afterBody: function (items) {
                 const idx = items[0].dataIndex;
                 const col = sorted[idx];

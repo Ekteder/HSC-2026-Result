@@ -108,10 +108,22 @@
       .join('');
   }
 
+  function formatSubjectLabel(sub) {
+    if (window.innerWidth > 640) {
+      return sub === 'Information & Communication Technology' ? 'ICT' : sub;
+    }
+    const shortMap = {
+      'Information & Communication Technology': 'ICT',
+      'Higher Mathematics': 'Higher Math',
+      'Agriculture Studies': 'Agriculture'
+    };
+    return shortMap[sub] || sub;
+  }
+
   function renderSubjectCharts(subjectStats) {
     if (typeof Chart === 'undefined') return;
 
-    const labels = subjectStats.map((s) => s.subject);
+    const labels = subjectStats.map((s) => formatSubjectLabel(s.subject));
 
     // 1. Stacked bar chart: Grade distribution by subject
     const stackedCanvas = document.getElementById('chart-subject-stacked');
@@ -156,6 +168,13 @@
             legend: {
               position: 'top',
               labels: { boxWidth: 12, font: { size: 11, weight: '600' } }
+            },
+            tooltip: {
+              callbacks: {
+                title: function (items) {
+                  return subjectStats[items[0].dataIndex].subject;
+                }
+              }
             }
           }
         }
@@ -171,7 +190,7 @@
       aPlusPctChart = new Chart(aPlusCanvas, {
         type: 'bar',
         data: {
-          labels: sortedAPlus.map((s) => s.subject),
+          labels: sortedAPlus.map((s) => formatSubjectLabel(s.subject)),
           datasets: [
             {
               label: 'A+ Percentage (%)',
@@ -199,6 +218,9 @@
             legend: { display: false },
             tooltip: {
               callbacks: {
+                title: function (items) {
+                  return sortedAPlus[items[0].dataIndex].subject;
+                },
                 label: function (ctx) {
                   const item = sortedAPlus[ctx.dataIndex];
                   return ` A+ Rate: ${item.aPlusPct.toFixed(2)}% (${item['A+']} of ${item.totalGraded} students)`;
@@ -219,7 +241,7 @@
       fPctChart = new Chart(fCanvas, {
         type: 'bar',
         data: {
-          labels: sortedF.map((s) => s.subject),
+          labels: sortedF.map((s) => formatSubjectLabel(s.subject)),
           datasets: [
             {
               label: 'F Grade Percentage (%)',
@@ -247,6 +269,9 @@
             legend: { display: false },
             tooltip: {
               callbacks: {
+                title: function (items) {
+                  return sortedF[items[0].dataIndex].subject;
+                },
                 label: function (ctx) {
                   const item = sortedF[ctx.dataIndex];
                   return ` F Rate: ${item.fPct.toFixed(2)}% (${item.F} of ${item.totalGraded} students)`;
