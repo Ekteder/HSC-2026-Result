@@ -124,8 +124,9 @@
       }
 
       if (state.sortBy === 'college') {
-        const cmp = a.college.localeCompare(b.college);
-        if (cmp !== 0) return cmp * dir;
+        const orderA = a.collegeOrder || 99;
+        const orderB = b.collegeOrder || 99;
+        if (orderA !== orderB) return (orderA - orderB) * dir;
         return (parseInt(a.roll, 10) || 0) - (parseInt(b.roll, 10) || 0);
       }
 
@@ -482,7 +483,14 @@
     // Populate College filter dropdown
     const colSelect = document.getElementById('filter-college');
     if (colSelect) {
-      const uniqueColleges = [...new Set(students.map((s) => s.college))].sort();
+      const orderedNames =
+        (window.NARAIL_DATASET_META && window.NARAIL_DATASET_META.collegeNamesOrdered) || [];
+      const rawColleges = [...new Set(students.map((s) => s.college))];
+      const uniqueColleges = rawColleges.sort((a, b) => {
+        const iA = orderedNames.indexOf(a);
+        const iB = orderedNames.indexOf(b);
+        return (iA === -1 ? 99 : iA) - (iB === -1 ? 99 : iB);
+      });
       colSelect.innerHTML =
         `<option value="ALL">All Colleges (${uniqueColleges.length})</option>` +
         uniqueColleges.map((c) => `<option value="${c}">${c}</option>`).join('');

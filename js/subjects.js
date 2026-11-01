@@ -290,7 +290,13 @@
 
     if (collegeCompareChart) collegeCompareChart.destroy();
 
-    const colleges = [...new Set(allStudents.map((s) => s.college))].sort();
+    const orderedNames =
+      (window.NARAIL_DATASET_META && window.NARAIL_DATASET_META.collegeNamesOrdered) || [];
+    const colleges = [...new Set(allStudents.map((s) => s.college))].sort((a, b) => {
+      const iA = orderedNames.indexOf(a);
+      const iB = orderedNames.indexOf(b);
+      return (iA === -1 ? 99 : iA) - (iB === -1 ? 99 : iB);
+    });
     const rows = colleges.map((col) => {
       let total = 0;
       let passed = 0;
@@ -395,7 +401,13 @@
     // Populate College Filter
     const colSelect = document.getElementById('subject-college-filter');
     if (colSelect) {
-      const uniqueColleges = [...new Set(students.map((s) => s.college))].sort();
+      const orderedNames =
+        (window.NARAIL_DATASET_META && window.NARAIL_DATASET_META.collegeNamesOrdered) || [];
+      const uniqueColleges = [...new Set(students.map((s) => s.college))].sort((a, b) => {
+        const iA = orderedNames.indexOf(a);
+        const iB = orderedNames.indexOf(b);
+        return (iA === -1 ? 99 : iA) - (iB === -1 ? 99 : iB);
+      });
       colSelect.innerHTML =
         `<option value="ALL">All Colleges (Unified Dataset)</option>` +
         uniqueColleges.map((c) => `<option value="${c}">${c}</option>`).join('');

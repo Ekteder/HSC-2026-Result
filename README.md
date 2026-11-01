@@ -49,16 +49,16 @@ Then open `http://localhost:3000` in your browser.
 
 All **7 JSON source files** were inspected, parsed from their embedded HTML grade sheets (`table_info` and `table_result`), standardized, and validated:
 
-| College Name | EIIN | Total Students | Passed | Failed | Absent | Pass Rate | GPA 5.00 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| **Government Victoria College, Narail** | 118527 | 336 | 270 | 56 | 10 | 80.36% | 52 |
-| **Gobra Mittra College** | 118528 | 26 | 15 | 8 | 3 | 57.69% | 0 |
-| **Ballartop Ideal College** | 118523 | 18 | 10 | 7 | 1 | 55.56% | 0 |
-| **Narail Govt. Mohila College** | 118525 | 76 | 35 | 35 | 6 | 46.05% | 0 |
-| **Lohagara Govt. Adarsha College** | 118437 | 85 | 38 | 40 | 7 | 44.71% | 2 |
-| **Maijpara College** | 118530 | 40 | 17 | 23 | 0 | 42.50% | 0 |
-| **Abdul Hai City College** | 118526 | 31 | 8 | 22 | 1 | 25.81% | 0 |
-| **All 7 Colleges Total** | — | **612** | **393** | **191** | **28** | **64.22%** | **54** |
+| SL | College Name | EIIN | Total Students | Passed | Failed | Absent | Pass Rate | GPA 5.00 |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|
+| 1 | **Government Victoria College, Narail** | 118527 | 336 | 270 | 56 | 10 | 80.36% | 52 |
+| 2 | **Narail Govt. Mohila College** | 118525 | 76 | 35 | 35 | 6 | 46.05% | 0 |
+| 3 | **Abdul Hai City College** | 118526 | 31 | 8 | 22 | 1 | 25.81% | 0 |
+| 4 | **Ballartop Ideal College** | 118523 | 18 | 10 | 7 | 1 | 55.56% | 0 |
+| 5 | **Gobra Mittra College** | 118528 | 26 | 15 | 8 | 3 | 57.69% | 0 |
+| 6 | **Maijpara College** | 118530 | 40 | 17 | 23 | 0 | 42.50% | 0 |
+| 7 | **Lohagara Govt. Adarsha College** | 118437 | 85 | 38 | 40 | 7 | 44.71% | 2 |
+| — | **All 7 Colleges Total** | — | **612** | **393** | **191** | **28** | **64.22%** | **54** |
 
 ### Data Processing Rules Enforced
 - **Zero Invented Data**: Missing fields (such as Registration Numbers, which are blank in the source HTML) are explicitly displayed as `Not Available`.

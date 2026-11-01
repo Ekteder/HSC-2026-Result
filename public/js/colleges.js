@@ -25,7 +25,13 @@
     const grid = document.getElementById('colleges-cards-grid');
     if (!grid) return;
 
-    const sorted = [...collegeStatsList].sort((a, b) => b.total - a.total);
+    const orderedNames =
+      (window.NARAIL_DATASET_META && window.NARAIL_DATASET_META.collegeNamesOrdered) || [];
+    const sorted = [...collegeStatsList].sort((a, b) => {
+      const iA = orderedNames.indexOf(a.college);
+      const iB = orderedNames.indexOf(b.college);
+      return (iA === -1 ? 99 : iA) - (iB === -1 ? 99 : iB);
+    });
 
     grid.innerHTML = sorted
       .map((c) => {
@@ -445,7 +451,15 @@
 
     const switcher = document.getElementById('college-detail-switcher');
     if (switcher) {
-      const sortedNames = collegeStatsList.map((c) => c.college).sort();
+      const orderedNames =
+        (window.NARAIL_DATASET_META && window.NARAIL_DATASET_META.collegeNamesOrdered) || [];
+      const sortedNames = collegeStatsList
+        .map((c) => c.college)
+        .sort((a, b) => {
+          const iA = orderedNames.indexOf(a);
+          const iB = orderedNames.indexOf(b);
+          return (iA === -1 ? 99 : iA) - (iB === -1 ? 99 : iB);
+        });
       switcher.innerHTML = sortedNames.map((n) => `<option value="${n}">${n}</option>`).join('');
       switcher.addEventListener('change', () => {
         openCollegeDetail(switcher.value);
