@@ -1,0 +1,2393 @@
+{
+  "eiin": 118439,
+  "college_name": "Amada Adarsha College",
+  "name": "Amada Adarsha College",
+  "bengali_name": "আমাদা আদর্শ কলেজ",
+  "center": "NABAGANGA - 412",
+  "upazila": "Lohagara",
+  "upazila_detail": "Lohagara",
+  "established": "2000",
+  "total_registered": 31,
+  "total_appeared": 31,
+  "total_passed": 7,
+  "total_failed": 24,
+  "total_gpa5": 0,
+  "pass_rate": 22.58,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 0,
+      "f2": 1,
+      "pass_rate": 0.0,
+      "roll_min": 517751,
+      "roll_max": 517751
+    },
+    "Humanities": {
+      "appeared": 29,
+      "passed": 7,
+      "failed": 22,
+      "gpa5": 0,
+      "absent": 2,
+      "expelled": 0,
+      "f1": 12,
+      "f2": 3,
+      "pass_rate": 24.14,
+      "roll_min": 666497,
+      "roll_max": 666525
+    },
+    "Business Studies": {
+      "appeared": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 1,
+      "f2": 0,
+      "pass_rate": 0.0,
+      "roll_min": 810380,
+      "roll_max": 810380
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 0,
+    "gpa_3_5_to_4": 3,
+    "gpa_3_to_3_5": 0,
+    "gpa_2_to_3": 4,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 24,
+    "total": 31
+  },
+  "statistics": {
+    "total_registered": 31,
+    "total_appeared": 31,
+    "total_passed": 7,
+    "total_failed": 24,
+    "pass_rate": 22.58,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      },
+      "humanities": {
+        "appeared": 29,
+        "passed": 7,
+        "failed": 22,
+        "gpa5": 0,
+        "pass_rate": 24.14
+      },
+      "business_studies": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 0,
+      "gpa_35_to_4": 3,
+      "gpa_3_to_35": 0,
+      "gpa_2_to_3": 4,
+      "gpa_1_to_2": 0,
+      "gpa_0": 24
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    },
+    "Humanities": {
+      "total": 29,
+      "passed": 7,
+      "failed": 22,
+      "gpa5": 0,
+      "pass_rate": 24.14
+    },
+    "Business Studies": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    }
+  },
+  "students": [
+    {
+      "roll": "517751",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. BAYOZID HASAN AHAD",
+      "father_name": "MD. JAMAL TALUKDAR",
+      "mother_name": "RAFEZA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666497",
+      "regno": "",
+      "reg_no": "",
+      "name": "MUSLIMA KHATUN",
+      "father_name": "MUSTAK  KAZI",
+      "mother_name": "SELINA PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666498",
+      "regno": "",
+      "reg_no": "",
+      "name": "BAISHAKHI KHANOM",
+      "father_name": "ABDUR RAHMAN MOLLA",
+      "mother_name": "PARUL BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666499",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. FARHANA AKTER",
+      "father_name": "MD. OHIDUL ISLAM",
+      "mother_name": "MST. NAZMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "271",
+          "name": "Social Work",
+          "subject": "Social Work",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666500",
+      "regno": "",
+      "reg_no": "",
+      "name": "NAHIN AFRIN",
+      "father_name": "JOHUR SHEIKH",
+      "mother_name": "MERENA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666501",
+      "regno": "",
+      "reg_no": "",
+      "name": "HALIMA",
+      "father_name": "MD. MASUD",
+      "mother_name": "ROWSON ARA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": []
+    },
+    {
+      "roll": "666502",
+      "regno": "",
+      "reg_no": "",
+      "name": "AKHI PARVIN",
+      "father_name": "MD. ALIM KHAN",
+      "mother_name": "MST. HURJAN NECHA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666503",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. RAJONI KHANOM",
+      "father_name": "MD. ROKIBUL ISLAM",
+      "mother_name": "MST. ASMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666504",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JERIN KHANOM",
+      "father_name": "MD. SULTAN AHMMED RINTU",
+      "mother_name": "MST. FERDOUSI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.58",
+      "gpa": 3.58,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666505",
+      "regno": "",
+      "reg_no": "",
+      "name": "NILIMA ISLAM NISHAT",
+      "father_name": "MD. MOMINUL ISLAM",
+      "mother_name": "PAPIA SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.00",
+      "gpa": 2.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "666506",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. RUKSANA KHANAM",
+      "father_name": "MD. TITUL SHAIKE",
+      "mother_name": "MST. RUPALI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666507",
+      "regno": "",
+      "reg_no": "",
+      "name": "TANIA KHATUN",
+      "father_name": "JAKAR SHEIKH",
+      "mother_name": "SAMSUN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.17",
+      "gpa": 2.17,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666508",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. RIKTA KHANUM",
+      "father_name": "MD. KHOSDEL KHAN",
+      "mother_name": "JESMIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.58",
+      "gpa": 2.58,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666509",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SRABONI",
+      "father_name": "MD. ROBIUL GAZI",
+      "mother_name": "ASMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666510",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD MISHKAT HOSSAIN ZIHAD",
+      "father_name": "MD MAHABUBUL ALAM",
+      "mother_name": "MST CHINIA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666511",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. RASHED SHEIKH",
+      "father_name": "MD. PANNU SHEIKH",
+      "mother_name": "MST. RASHIDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666512",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ASIF SHEIKH",
+      "father_name": "MD. AMINUL ISLAM SHEIKH",
+      "mother_name": "MST. JAHANARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.67",
+      "gpa": 3.67,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666513",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHANTO KHAN",
+      "father_name": "PITU KHAN",
+      "mother_name": "MAYNA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666514",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.HAMZA MRIDHA",
+      "father_name": "MD.FAYAK MRIDHA",
+      "mother_name": "MST.NURZAHAN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666515",
+      "regno": "",
+      "reg_no": "",
+      "name": "S. M. MUSA KALIM ULLAH REJA",
+      "father_name": "SHAIKH MD. ZAKIR HOSSAIN",
+      "mother_name": "MST. RAHIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666516",
+      "regno": "",
+      "reg_no": "",
+      "name": "SYED RAKIBUL HASAN",
+      "father_name": "SYED ALI AHAMMD",
+      "mother_name": "SULTANA PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666517",
+      "regno": "",
+      "reg_no": "",
+      "name": "KHANDAKAR  MAHIN AHMED",
+      "father_name": "KHANDAKAR  FARUK AHMED",
+      "mother_name": "KHANDAKAR  NAZMA AHMED",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666518",
+      "regno": "",
+      "reg_no": "",
+      "name": "MASUM MOLLA",
+      "father_name": "MOFIZUR MOLLA",
+      "mother_name": "MOMOTAZ BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666519",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD OBIDULLA KAZI",
+      "father_name": "MD. KAZI TOSLUR RAHAMAN",
+      "mother_name": "MST REXONA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.75",
+      "gpa": 2.75,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666520",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD EYASIN KAZI",
+      "father_name": "KAZI ANAETE HOSSAIN",
+      "mother_name": "SABINA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666521",
+      "regno": "",
+      "reg_no": "",
+      "name": "SYED NIYAJUL MUNIR NIYAJ",
+      "father_name": "S. M. MUNIR",
+      "mother_name": "CHAMPA KHANUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666522",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD TANVIR HASAN FORHAD",
+      "father_name": "MD AFSAR UDDIN",
+      "mother_name": "MST SHAHINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666523",
+      "regno": "",
+      "reg_no": "",
+      "name": "TANJIL AHAMED REFAT",
+      "father_name": "MD HAFIZUR RAHMAN",
+      "mother_name": "MST NASIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666524",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ARIF FAKIR",
+      "father_name": "MD. JOHIR FAKIR",
+      "mother_name": "MST. RINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.50",
+      "gpa": 3.5,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666525",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD NAHID HASAN",
+      "father_name": "MD LITON MOLLA",
+      "mother_name": "MST NAJMIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": []
+    },
+    {
+      "roll": "810380",
+      "regno": "",
+      "reg_no": "",
+      "name": "JISAN  SHEIKH",
+      "father_name": "MD. UZZAL  SHEIKH",
+      "mother_name": "MST. JAHANARA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118439,
+      "college_name": "Amada Adarsha College",
+      "institute": "Amada Adarsha College",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    }
+  ]
+}

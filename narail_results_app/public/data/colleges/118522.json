@@ -1,0 +1,1861 @@
+{
+  "eiin": 118522,
+  "college_name": "Juralia Bahumukhi Adarsa College",
+  "name": "Juralia Bahumukhi Adarsa College",
+  "bengali_name": "জুরালিয়া বহুমুখী আদর্শ কলেজ",
+  "center": "MAIJPARA - 364",
+  "upazila": "Narail Sadar",
+  "upazila_detail": "Narail Sadar",
+  "established": "1994",
+  "total_registered": 24,
+  "total_appeared": 24,
+  "total_passed": 1,
+  "total_failed": 23,
+  "total_gpa5": 0,
+  "pass_rate": 4.17,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 3,
+      "passed": 0,
+      "failed": 3,
+      "gpa5": 0,
+      "absent": 1,
+      "expelled": 0,
+      "f1": 2,
+      "f2": 0,
+      "pass_rate": 0.0,
+      "roll_min": 517753,
+      "roll_max": 517755
+    },
+    "Humanities": {
+      "appeared": 20,
+      "passed": 1,
+      "failed": 19,
+      "gpa5": 0,
+      "absent": 1,
+      "expelled": 0,
+      "f1": 4,
+      "f2": 5,
+      "pass_rate": 5.0,
+      "roll_min": 666691,
+      "roll_max": 666710
+    },
+    "Business Studies": {
+      "appeared": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 1,
+      "f2": 0,
+      "pass_rate": 0.0,
+      "roll_min": 810398,
+      "roll_max": 810398
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 0,
+    "gpa_3_5_to_4": 0,
+    "gpa_3_to_3_5": 0,
+    "gpa_2_to_3": 1,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 23,
+    "total": 24
+  },
+  "statistics": {
+    "total_registered": 24,
+    "total_appeared": 24,
+    "total_passed": 1,
+    "total_failed": 23,
+    "pass_rate": 4.17,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 3,
+        "passed": 0,
+        "failed": 3,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      },
+      "humanities": {
+        "appeared": 20,
+        "passed": 1,
+        "failed": 19,
+        "gpa5": 0,
+        "pass_rate": 5.0
+      },
+      "business_studies": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 0,
+      "gpa_35_to_4": 0,
+      "gpa_3_to_35": 0,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "gpa_0": 23
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 3,
+      "passed": 0,
+      "failed": 3,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    },
+    "Humanities": {
+      "total": 20,
+      "passed": 1,
+      "failed": 19,
+      "gpa5": 0,
+      "pass_rate": 5.0
+    },
+    "Business Studies": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    }
+  },
+  "students": [
+    {
+      "roll": "517753",
+      "regno": "",
+      "reg_no": "",
+      "name": "SULTANA KHATUN",
+      "father_name": "MD. IMRAN BHUIYA",
+      "mother_name": "MST. MENE BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "517754",
+      "regno": "",
+      "reg_no": "",
+      "name": "NUR ALI",
+      "father_name": "IMRAN MOLLA",
+      "mother_name": "RILIA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": []
+    },
+    {
+      "roll": "517755",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SOJON BISWAS",
+      "father_name": "MD. MONJU BISWAS",
+      "mother_name": "MST. PARVIN NAHAR",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666691",
+      "regno": "",
+      "reg_no": "",
+      "name": "KOHELI BASU",
+      "father_name": "MANIK BASU",
+      "mother_name": "KORUNA BASU",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666692",
+      "regno": "",
+      "reg_no": "",
+      "name": "ROZINA KHATUN",
+      "father_name": "NUR MIA",
+      "mother_name": "NIHAR BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666693",
+      "regno": "",
+      "reg_no": "",
+      "name": "TASFIA AFRIN",
+      "father_name": "SHEIKH ABUL BASHAR",
+      "mother_name": "JAHANARA PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666694",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST JEBA KHATUN",
+      "father_name": "MD ROZOB ALI",
+      "mother_name": "MONIRA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666695",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHAYADA ANANNA",
+      "father_name": "M.M. HIDAYET ALI",
+      "mother_name": "DIL ARA AFRIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666696",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SIMA KHATUN",
+      "father_name": "MD. ELIAS",
+      "mother_name": "LOTIFA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666697",
+      "regno": "",
+      "reg_no": "",
+      "name": "HALIMA KHATUN",
+      "father_name": "MD. NAWASHER KABIRAJ",
+      "mother_name": "TAZIARA  BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666698",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SRITI SULTANA BRISTY TOMA",
+      "father_name": "MD. HAFIZUR RAHMAN",
+      "mother_name": "MST. OLEKA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666699",
+      "regno": "",
+      "reg_no": "",
+      "name": "BONNA SULTANA",
+      "father_name": "MD. RONJU SHEIKH",
+      "mother_name": "RESHMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "666700",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST.NASRIN KHATUN",
+      "father_name": "SAHIDUL MOLLA",
+      "mother_name": "CHINA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666701",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST.SUBORNA AKTER PRIYA",
+      "father_name": "MD.SHARIFUL ISLAM",
+      "mother_name": "MST.ADORI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.50",
+      "gpa": 2.5,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666702",
+      "regno": "",
+      "reg_no": "",
+      "name": "AFIA RAHMAN CLANTI",
+      "father_name": "AZIZUR RAHMAN",
+      "mother_name": "HALIMA AZIZ",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "666703",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAJIM HOSSAIN",
+      "father_name": "MD. MASUDUR RAHAMAN",
+      "mother_name": "ASIA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666704",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD A RAHMAN",
+      "father_name": "MD ABUL HOSSEN",
+      "mother_name": "MST ALYA KATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "666705",
+      "regno": "",
+      "reg_no": "",
+      "name": "KANCHAN HOSSEN",
+      "father_name": "MD MASUD MOLLA",
+      "mother_name": "MST MARFIA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666706",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SIAM BISWAS",
+      "father_name": "MD. REZAUL ISLAM",
+      "mother_name": "SAMJIDA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666707",
+      "regno": "",
+      "reg_no": "",
+      "name": "JOY SINGHO",
+      "father_name": "AMOL SINGHO",
+      "mother_name": "SADONA SINGHO",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666708",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.ABDUR RAHIM SHIKDER",
+      "father_name": "MD.HANAF SHIKDER",
+      "mother_name": "RABEYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666709",
+      "regno": "",
+      "reg_no": "",
+      "name": "AMIN UDDIN MOLLA",
+      "father_name": "MD.IKBAL MOLLA",
+      "mother_name": "MST.RUPALI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": []
+    },
+    {
+      "roll": "666710",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.EMON SHIKDER",
+      "father_name": "MD.KALAM SHIKDER",
+      "mother_name": "MST.MINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "810398",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD ATIK HASAN ANTOR",
+      "father_name": "AMZAD HOSEN",
+      "mother_name": "ZAHEDA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118522,
+      "college_name": "Juralia Bahumukhi Adarsa College",
+      "institute": "Juralia Bahumukhi Adarsa College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "292",
+          "name": "Finance, Banking & Insurance",
+          "subject": "Finance, Banking & Insurance",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3533 @@
+{
+  "eiin": 118404,
+  "college_name": "Makrail Karim Khalek Solaiman Institution",
+  "name": "Makrail Karim Khalek Solaiman Institution",
+  "bengali_name": "মাকড়াইল করিম খালেক সোলায়মান ইনস্টিটিউশন",
+  "center": "LOHAGARA - 418",
+  "upazila": "Lohagara",
+  "upazila_detail": "Lohagara",
+  "established": "1968",
+  "total_registered": 49,
+  "total_appeared": 49,
+  "total_passed": 0,
+  "total_failed": 49,
+  "total_gpa5": 0,
+  "pass_rate": 0.0,
+  "participating_streams": [
+    "Humanities"
+  ],
+  "stream_stats": {
+    "Humanities": {
+      "appeared": 49,
+      "passed": 0,
+      "failed": 49,
+      "gpa5": 0,
+      "absent": 6,
+      "expelled": 0,
+      "f1": 12,
+      "f2": 6,
+      "pass_rate": 0.0,
+      "roll_min": 665250,
+      "roll_max": 682211
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 0,
+    "gpa_3_5_to_4": 0,
+    "gpa_3_to_3_5": 0,
+    "gpa_2_to_3": 0,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 49,
+    "total": 49
+  },
+  "statistics": {
+    "total_registered": 49,
+    "total_appeared": 49,
+    "total_passed": 0,
+    "total_failed": 49,
+    "pass_rate": 0.0,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 0,
+        "passed": 0,
+        "failed": 0,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      },
+      "humanities": {
+        "appeared": 49,
+        "passed": 0,
+        "failed": 49,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      },
+      "business_studies": {
+        "appeared": 0,
+        "passed": 0,
+        "failed": 0,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 0,
+      "gpa_35_to_4": 0,
+      "gpa_3_to_35": 0,
+      "gpa_2_to_3": 0,
+      "gpa_1_to_2": 0,
+      "gpa_0": 49
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 0,
+      "passed": 0,
+      "failed": 0,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    },
+    "Humanities": {
+      "total": 49,
+      "passed": 0,
+      "failed": 49,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    },
+    "Business Studies": {
+      "total": 0,
+      "passed": 0,
+      "failed": 0,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    }
+  },
+  "students": [
+    {
+      "roll": "665250",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SUMAIYA AKTAR",
+      "father_name": "MD. ZILLUR RAHMAN",
+      "mother_name": "MST. GOLAPI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665251",
+      "regno": "",
+      "reg_no": "",
+      "name": "MUSLIMA AKTER",
+      "father_name": "MD. FASIAR RAHMAN",
+      "mother_name": "CHOMPA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665252",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SURIYA YASMIN",
+      "father_name": "MD. ABDULLA MOLLA",
+      "mother_name": "MST. NASIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665253",
+      "regno": "",
+      "reg_no": "",
+      "name": "LIMA KHANOM",
+      "father_name": "MD. LUTFOR RAHMAN KHAN",
+      "mother_name": "MST. PARUL BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665254",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. RONI PARVIN",
+      "father_name": "MD. JINDAR MOLLAH",
+      "mother_name": "MST. RIKTA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665255",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. KHADIZA YASMIN",
+      "father_name": "SYED SUZAN ALI",
+      "mother_name": "MST. SAPNA PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "665256",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JIM KHANOM",
+      "father_name": "MD. ZIAR SHEIKH",
+      "mother_name": "MST. KAJOLY BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665257",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. ANIRA KHANOM",
+      "father_name": "MD. SAKAYET MOLLA",
+      "mother_name": "JUMUNA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665258",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SUKLA KHANOM",
+      "father_name": "MD. AZOM MOLLA",
+      "mother_name": "MST. MERE BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665259",
+      "regno": "",
+      "reg_no": "",
+      "name": "MIM SULTANA",
+      "father_name": "MD. AKTER HOSEN KHAN",
+      "mother_name": "MST. PAPIA SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665260",
+      "regno": "",
+      "reg_no": "",
+      "name": "SORNALI KHATUN",
+      "father_name": "MD. SHORIFUL ISLAM",
+      "mother_name": "SAGORIKA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665261",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST MITA KHATUN",
+      "father_name": "MD GOLAM ROBBANI",
+      "mother_name": "MST HOWA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665262",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMIYA SHIKDAR",
+      "father_name": "MD. JAFOR SHIKDAR",
+      "mother_name": "MST. BEAUTY PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665263",
+      "regno": "",
+      "reg_no": "",
+      "name": "KAZI  FARIA",
+      "father_name": "KAZI HEMAYET HOSSAIN",
+      "mother_name": "MST. ROZINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "665264",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST HAMIDA KHANOM",
+      "father_name": "MD. ZAHANGIR KHAN",
+      "mother_name": "MST. BOBITA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665265",
+      "regno": "",
+      "reg_no": "",
+      "name": "MOHIMA  ISLAM  MARIEA",
+      "father_name": "MD.MORIDUL  ISLAM",
+      "mother_name": "SOHANA  SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665266",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAHIDUL ISLAM",
+      "father_name": "MD. FARUK MOLLA",
+      "mother_name": "NASIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665267",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD HARUNAR RASHID",
+      "father_name": "MD ATIAR RAHMAN",
+      "mother_name": "MST MOMTAZ BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665268",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD RAHIM MOLLA",
+      "father_name": "MD NUR ISLAM  MOLLA",
+      "mother_name": "MST JORINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665269",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHORIFUL",
+      "father_name": "JAMIR",
+      "mother_name": "BEAUTY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665270",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. RAKIBUL ALI",
+      "father_name": "MD. MOSAREF ALI",
+      "mother_name": "MST. ZARINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665271",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ASMAUL",
+      "father_name": "MD. KAMRUZZAMAN",
+      "mother_name": "FARHANA SHANAJ MITA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665272",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ANIK MOLLA",
+      "father_name": "MD. AMINUR MOLLA",
+      "mother_name": "MST. KEYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665273",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHOHANUR RAHMAN",
+      "father_name": "MD. ABDUR ROUF MOLLA",
+      "mother_name": "MST. SHILPI KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665274",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. HABIBULLAH MOLLA",
+      "father_name": "MD. MASUD MOLLA",
+      "mother_name": "MST. SAHANARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    },
+    {
+      "roll": "665275",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. MEHEDI HASAN EMON",
+      "father_name": "MD. EMAN HOSEN MOLLA",
+      "mother_name": "MST. FORIDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    },
+    {
+      "roll": "665276",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.NAHID MIA.",
+      "father_name": "MD.ZENNAH SHEIKH.",
+      "mother_name": "MST.DALIM BEGUM.",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665277",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD SHAMIM MOLLA",
+      "father_name": "MD SHURUS MOLLA",
+      "mother_name": "MST MUKTA KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665278",
+      "regno": "",
+      "reg_no": "",
+      "name": "DEBBROTO PAUL",
+      "father_name": "SHUKESH PAUL",
+      "mother_name": "SHWARASHATI RANI PAUL",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665279",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ARAFAT ISLAM",
+      "father_name": "MD. LITON MOLLA",
+      "mother_name": "ASMA AKTER",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665280",
+      "regno": "",
+      "reg_no": "",
+      "name": "KHADORKER ALL MIZAHID",
+      "father_name": "KHANDOKER MOHIDUL  ISLAM",
+      "mother_name": "MST. ROSHIDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    },
+    {
+      "roll": "665281",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ZAHID MOLLA",
+      "father_name": "MD. OMAR MOLLA",
+      "mother_name": "MST. RABEYA KHANUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665282",
+      "regno": "",
+      "reg_no": "",
+      "name": "KAZI . HABIBUR RAHMAN",
+      "father_name": "KAZI TORIQUL ISLAM",
+      "mother_name": "MST. REZIYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665283",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SABBIR HOSEN",
+      "father_name": "MD. ABJAL MOLLA",
+      "mother_name": "MST. KHADIZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665284",
+      "regno": "",
+      "reg_no": "",
+      "name": "NUR KARIM",
+      "father_name": "MD. SHAHIDUL ISLAM",
+      "mother_name": "MST. SHULI SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665285",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. FOYSAL SHEIKH",
+      "father_name": "MD. MUSHAREF SHEK",
+      "mother_name": "MST. NASRIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665286",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD ISMAIL",
+      "father_name": "SYED MURAD ALI",
+      "mother_name": "MST KALPANA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665287",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. FAHAD ISLAM",
+      "father_name": "MD. NICHAR MOLLA",
+      "mother_name": "SELINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "665288",
+      "regno": "",
+      "reg_no": "",
+      "name": "RAHATULLA",
+      "father_name": "SHOHIDULLAH",
+      "mother_name": "ROHIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    },
+    {
+      "roll": "665289",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. IMRAN  SHIKDAR",
+      "father_name": "MD. SAHABUDDIN SIKDAR",
+      "mother_name": "MST. HASNA HENA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "665290",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ABDUL AZIZ",
+      "father_name": "MD. OMAR  ALI",
+      "mother_name": "MST. SABEDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "665291",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHAHED MAHMUD",
+      "father_name": "MD. JAHURUL ISLAM",
+      "mother_name": "MST. SADIA SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665292",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAZOL AHMED",
+      "father_name": "MD. SURBAN MOLLA",
+      "mother_name": "MST. LIPY BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "665293",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. NIME ISLAM",
+      "father_name": "MD. RANA HAMID",
+      "mother_name": "NAZMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "665294",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ROKIBUL ISLAM",
+      "father_name": "MD. REZAUL KARIM",
+      "mother_name": "MST. RABEYA  BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "665295",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. REFAT HAIDER",
+      "father_name": "MD. NASIR UDDIN LIPU",
+      "mother_name": "PARVIN SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "665296",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHUVO  SARKAR",
+      "father_name": "SHAMOL  KUMAR  SARKAR",
+      "mother_name": "RIPA  RANI  SARKAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "682135",
+      "regno": "",
+      "reg_no": "",
+      "name": "S. M. JAMIRUL ISLAM",
+      "father_name": "MD. LITON HOSSEN MOLLA",
+      "mother_name": "MST. JAHANARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    },
+    {
+      "roll": "682211",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD JOSIM SHEIKH",
+      "father_name": "MD YOUSUB SHEIKH",
+      "mother_name": "MST RAHELA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118404,
+      "college_name": "Makrail Karim Khalek Solaiman Institution",
+      "institute": "Makrail Karim Khalek Solaiman Institution",
+      "upazila": "Lohagara",
+      "upazila_detail": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "subjects": []
+    }
+  ]
+}

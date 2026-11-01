@@ -1,0 +1,3559 @@
+{
+  "eiin": 118521,
+  "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+  "name": "Dakshin Narail Shimulia Mahabiddyalya",
+  "bengali_name": "দক্ষিণ নড়াইল শিমুলিয়া মহাবিদ্যালয়",
+  "center": "NARAIL - 320",
+  "upazila": "Narail Sadar",
+  "upazila_detail": "Narail Sadar",
+  "established": "1995",
+  "total_registered": 47,
+  "total_appeared": 47,
+  "total_passed": 10,
+  "total_failed": 37,
+  "total_gpa5": 0,
+  "pass_rate": 21.28,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 1,
+      "passed": 1,
+      "failed": 0,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 0,
+      "f2": 0,
+      "pass_rate": 100.0,
+      "roll_min": 517752,
+      "roll_max": 517752
+    },
+    "Humanities": {
+      "appeared": 41,
+      "passed": 7,
+      "failed": 34,
+      "gpa5": 0,
+      "absent": 3,
+      "expelled": 0,
+      "f1": 16,
+      "f2": 14,
+      "pass_rate": 17.07,
+      "roll_min": 666650,
+      "roll_max": 666690
+    },
+    "Business Studies": {
+      "appeared": 5,
+      "passed": 2,
+      "failed": 3,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 2,
+      "f2": 0,
+      "pass_rate": 40.0,
+      "roll_min": 810393,
+      "roll_max": 810397
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 1,
+    "gpa_3_5_to_4": 2,
+    "gpa_3_to_3_5": 6,
+    "gpa_2_to_3": 1,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 37,
+    "total": 47
+  },
+  "statistics": {
+    "total_registered": 47,
+    "total_appeared": 47,
+    "total_passed": 10,
+    "total_failed": 37,
+    "pass_rate": 21.28,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 1,
+        "passed": 1,
+        "failed": 0,
+        "gpa5": 0,
+        "pass_rate": 100.0
+      },
+      "humanities": {
+        "appeared": 41,
+        "passed": 7,
+        "failed": 34,
+        "gpa5": 0,
+        "pass_rate": 17.07
+      },
+      "business_studies": {
+        "appeared": 5,
+        "passed": 2,
+        "failed": 3,
+        "gpa5": 0,
+        "pass_rate": 40.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 1,
+      "gpa_35_to_4": 2,
+      "gpa_3_to_35": 6,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "gpa_0": 37
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "gpa5": 0,
+      "pass_rate": 100.0
+    },
+    "Humanities": {
+      "total": 41,
+      "passed": 7,
+      "failed": 34,
+      "gpa5": 0,
+      "pass_rate": 17.07
+    },
+    "Business Studies": {
+      "total": 5,
+      "passed": 2,
+      "failed": 3,
+      "gpa5": 0,
+      "pass_rate": 40.0
+    }
+  },
+  "students": [
+    {
+      "roll": "517752",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. METHELA FARJANA MIM",
+      "father_name": "MD. TOFAYEL MOLLA",
+      "mother_name": "MST. FATEMA KHATUN",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.17",
+      "gpa": 3.17,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666650",
+      "regno": "",
+      "reg_no": "",
+      "name": "MISS. LAMIYA KHATUN",
+      "father_name": "MD. AKRAM HOSSAIN",
+      "mother_name": "MST NIRALA PARVEIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666651",
+      "regno": "",
+      "reg_no": "",
+      "name": "MISS MUNIA KHATUN",
+      "father_name": "MD AKTER SHEIKH",
+      "mother_name": "PANNA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666652",
+      "regno": "",
+      "reg_no": "",
+      "name": "FARHANA TASNIM",
+      "father_name": "MD MOFAGGEL HOSSAIN MOLLA",
+      "mother_name": "JAKIYA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666653",
+      "regno": "",
+      "reg_no": "",
+      "name": "TITHI",
+      "father_name": "MD ALAMGIR KABIR",
+      "mother_name": "TANIYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666654",
+      "regno": "",
+      "reg_no": "",
+      "name": "SADIA AKTER SAMMI",
+      "father_name": "MD RAJAUL MOLLA",
+      "mother_name": "HALANA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666655",
+      "regno": "",
+      "reg_no": "",
+      "name": "BOISHAKHI MONDOL",
+      "father_name": "NARAYAN MONDOL",
+      "mother_name": "RANUKA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666656",
+      "regno": "",
+      "reg_no": "",
+      "name": "MITU BISWAS",
+      "father_name": "ANARUL BISWAS",
+      "mother_name": "SAHANAZ BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666657",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATI KHATUN",
+      "father_name": "MD. ESKEN MOLLA",
+      "mother_name": "MARZINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.58",
+      "gpa": 3.58,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666658",
+      "regno": "",
+      "reg_no": "",
+      "name": "MRITTIKA MAHNAJ",
+      "father_name": "MAHADI ALAMGIR",
+      "mother_name": "PANNA ALAMGIR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666659",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAMIA  AKTER",
+      "father_name": "MINA MOYAZZEM HOSSAIN",
+      "mother_name": "HASINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.50",
+      "gpa": 3.5,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666660",
+      "regno": "",
+      "reg_no": "",
+      "name": "MISS EVA KHATUN",
+      "father_name": "MD.NOBUAT MINA",
+      "mother_name": "MST.SHAHENA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666661",
+      "regno": "",
+      "reg_no": "",
+      "name": "NUPUR KHATUN",
+      "father_name": "MD.MONIRUL MOLLAH",
+      "mother_name": "MST.LILEFA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666662",
+      "regno": "",
+      "reg_no": "",
+      "name": "MIM KHATUN",
+      "father_name": "ABDUL BASAR MOLLA",
+      "mother_name": "SAFALI KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666663",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUVRA BISWAS",
+      "father_name": "PRODIP BISWAS",
+      "mother_name": "SIMA BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666664",
+      "regno": "",
+      "reg_no": "",
+      "name": "AMINA KHATUN",
+      "father_name": "AMINUR MOLLA",
+      "mother_name": "SWEETI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666665",
+      "regno": "",
+      "reg_no": "",
+      "name": "RABIA KHATUN MERA",
+      "father_name": "AZIAUR MINA",
+      "mother_name": "JOHORA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666666",
+      "regno": "",
+      "reg_no": "",
+      "name": "SATU KHATUN",
+      "father_name": "MD. NISFAR MOLLA",
+      "mother_name": "PARVIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666667",
+      "regno": "",
+      "reg_no": "",
+      "name": "SADIA PERVIN",
+      "father_name": "MD.HAFIZUR RAHMAN MOLLA",
+      "mother_name": "ZARINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "666668",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAMIA KHATUN",
+      "father_name": "MD.MOSTAIN MOLLA",
+      "mother_name": "FIROZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666669",
+      "regno": "",
+      "reg_no": "",
+      "name": "AMANA KHATUN",
+      "father_name": "MD.AMIR ALI MINA",
+      "mother_name": "RINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": []
+    },
+    {
+      "roll": "666670",
+      "regno": "",
+      "reg_no": "",
+      "name": "BOISHAKH SINGHO",
+      "father_name": "BIKASH SINGHO",
+      "mother_name": "RUPA RANI SINGH",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666671",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATUL FERDOUST",
+      "father_name": "HABIBUR MOLLA",
+      "mother_name": "MONERA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666672",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMI  KHATUN",
+      "father_name": "BABUL  MINA",
+      "mother_name": "RANJANA   BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666673",
+      "regno": "",
+      "reg_no": "",
+      "name": "AMENA KHATUN",
+      "father_name": "MOTIAR SHEIKH",
+      "mother_name": "MENARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666674",
+      "regno": "",
+      "reg_no": "",
+      "name": "RUPALI KHATUN",
+      "father_name": "MD.OBIDUR MOLLA",
+      "mother_name": "SALMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666675",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATI BAHAR JUI",
+      "father_name": "S M BAHARUL ISLAM",
+      "mother_name": "JAKIA SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666676",
+      "regno": "",
+      "reg_no": "",
+      "name": "ZANNATUL MAWA",
+      "father_name": "MD. TUTUL HOSSEN MOLLA",
+      "mother_name": "ZANNATUL FERDAUS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666677",
+      "regno": "",
+      "reg_no": "",
+      "name": "OISHIKA RAHMAN",
+      "father_name": "TOHIDUR RAHMAN",
+      "mother_name": "YEASMIN SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666678",
+      "regno": "",
+      "reg_no": "",
+      "name": "OJIFA KHATUN",
+      "father_name": "MD TAKIBUR RAHMAN",
+      "mother_name": "ROKAYA KANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666679",
+      "regno": "",
+      "reg_no": "",
+      "name": "TONNI KHATUN",
+      "father_name": "MOHIR UDDIN MOLLA",
+      "mother_name": "KOHINOOR BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666680",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAJIB",
+      "father_name": "MD.ASADUZZAMAN",
+      "mother_name": "MST.JESMIN AKTER",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666681",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. MUNNA MOLLA",
+      "father_name": "MD.MONIRUL MOLLA",
+      "mother_name": "ROZINA  BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666682",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. FARDIN KABIR KOUSHIK",
+      "father_name": "MD. BULBUL KABIR",
+      "mother_name": "NUR NAHAR BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.67",
+      "gpa": 4.67,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666683",
+      "regno": "",
+      "reg_no": "",
+      "name": "MISKAT SARDER",
+      "father_name": "AKTAR SARDER",
+      "mother_name": "DALIYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": []
+    },
+    {
+      "roll": "666684",
+      "regno": "",
+      "reg_no": "",
+      "name": "YEAMIN BISWAS",
+      "father_name": "MANIRUL BISWAS",
+      "mother_name": "JHARNA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666685",
+      "regno": "",
+      "reg_no": "",
+      "name": "NITTO MOZUMDAR",
+      "father_name": "CHITTA RANJAN MOZUMDAR",
+      "mother_name": "REKHA MAZUMDAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666686",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. IMRUL KAYES",
+      "father_name": "MD. ABUL KALAM AZAD",
+      "mother_name": "NASRIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666687",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.SAMI SHEAKH",
+      "father_name": "MD.ROWSAN ALI SHEIK",
+      "mother_name": "FEROZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": []
+    },
+    {
+      "roll": "666688",
+      "regno": "",
+      "reg_no": "",
+      "name": "JOYONTO SHIKDAR",
+      "father_name": "SAMIR SHIKDAR",
+      "mother_name": "OSIMA SHIKDAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666689",
+      "regno": "",
+      "reg_no": "",
+      "name": "RAHUL BHATTACHARYA",
+      "father_name": "SUKUMAR BHATTACHARYA",
+      "mother_name": "SULATA BHATTACHARYA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666690",
+      "regno": "",
+      "reg_no": "",
+      "name": "ASHEK ELAHI",
+      "father_name": "SHILU MOLLA",
+      "mother_name": "ADURI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.42",
+      "gpa": 2.42,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "810393",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMAIYA KHATUN",
+      "father_name": "MD ALOMGIR MOLLA",
+      "mother_name": "ROJINA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "810394",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD ALLI KODAR MONNA",
+      "father_name": "MD EASHQUE GAZI",
+      "mother_name": "RAHIDA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810395",
+      "regno": "",
+      "reg_no": "",
+      "name": "HUSAIN",
+      "father_name": "MD HASIL SARDAR",
+      "mother_name": "PAPRIA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.08",
+      "gpa": 3.08,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810396",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.JAMIL SHARDAR",
+      "father_name": "MD LALTU SHARDAR",
+      "mother_name": "SANIYA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.00",
+      "gpa": 3.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810397",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHAKIL MOLLA",
+      "father_name": "IBRAHIM MOLLA",
+      "mother_name": "ANGIRA BAGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118521,
+      "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "institute": "Dakshin Narail Shimulia Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    }
+  ]
+}

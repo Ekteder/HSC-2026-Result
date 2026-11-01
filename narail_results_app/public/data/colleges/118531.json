@@ -1,0 +1,4749 @@
+{
+  "eiin": 118531,
+  "college_name": "Habokhali Adarsha Mahabiddalay",
+  "name": "Habokhali Adarsha Mahabiddalay",
+  "bengali_name": "হাবোখালী আদর্শ মহাবিদ্যালয়",
+  "center": "MAIJPARA - 364",
+  "upazila": "Narail Sadar",
+  "upazila_detail": "Narail Sadar",
+  "established": "1999",
+  "total_registered": 62,
+  "total_appeared": 62,
+  "total_passed": 9,
+  "total_failed": 53,
+  "total_gpa5": 0,
+  "pass_rate": 14.52,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 7,
+      "passed": 1,
+      "failed": 6,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 3,
+      "f2": 2,
+      "pass_rate": 14.29,
+      "roll_min": 518306,
+      "roll_max": 518312
+    },
+    "Humanities": {
+      "appeared": 50,
+      "passed": 6,
+      "failed": 44,
+      "gpa5": 0,
+      "absent": 2,
+      "expelled": 0,
+      "f1": 23,
+      "f2": 13,
+      "pass_rate": 12.0,
+      "roll_min": 668098,
+      "roll_max": 668147
+    },
+    "Business Studies": {
+      "appeared": 5,
+      "passed": 2,
+      "failed": 3,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 2,
+      "f2": 1,
+      "pass_rate": 40.0,
+      "roll_min": 810639,
+      "roll_max": 810643
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 1,
+    "gpa_3_5_to_4": 2,
+    "gpa_3_to_3_5": 3,
+    "gpa_2_to_3": 3,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 53,
+    "total": 62
+  },
+  "statistics": {
+    "total_registered": 62,
+    "total_appeared": 62,
+    "total_passed": 9,
+    "total_failed": 53,
+    "pass_rate": 14.52,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 7,
+        "passed": 1,
+        "failed": 6,
+        "gpa5": 0,
+        "pass_rate": 14.29
+      },
+      "humanities": {
+        "appeared": 50,
+        "passed": 6,
+        "failed": 44,
+        "gpa5": 0,
+        "pass_rate": 12.0
+      },
+      "business_studies": {
+        "appeared": 5,
+        "passed": 2,
+        "failed": 3,
+        "gpa5": 0,
+        "pass_rate": 40.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 1,
+      "gpa_35_to_4": 2,
+      "gpa_3_to_35": 3,
+      "gpa_2_to_3": 3,
+      "gpa_1_to_2": 0,
+      "gpa_0": 53
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 7,
+      "passed": 1,
+      "failed": 6,
+      "gpa5": 0,
+      "pass_rate": 14.29
+    },
+    "Humanities": {
+      "total": 50,
+      "passed": 6,
+      "failed": 44,
+      "gpa5": 0,
+      "pass_rate": 12.0
+    },
+    "Business Studies": {
+      "total": 5,
+      "passed": 2,
+      "failed": 3,
+      "gpa5": 0,
+      "pass_rate": 40.0
+    }
+  },
+  "students": [
+    {
+      "roll": "518306",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SADIA ISLAM",
+      "father_name": "KAZI MOHIUDDIN",
+      "mother_name": "PALLABI SULTANA",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518307",
+      "regno": "",
+      "reg_no": "",
+      "name": "BAISHAKHI  BISWAS",
+      "father_name": "TREENATH BISWAS",
+      "mother_name": "RINA RANI BISWAS",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518308",
+      "regno": "",
+      "reg_no": "",
+      "name": "RIAD HASAN SHUVRO",
+      "father_name": "MD. REAZUL ISLAM",
+      "mother_name": "NAJMIN SULTANA",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518309",
+      "regno": "",
+      "reg_no": "",
+      "name": "SWARTHOK GOLDER",
+      "father_name": "KALINDRA NATH GOLDER",
+      "mother_name": "EITE GOLDER",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518310",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHAHARUKH HOSEN",
+      "father_name": "SHAHAJAHAN MOLLA",
+      "mother_name": "MARINA KHANUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518311",
+      "regno": "",
+      "reg_no": "",
+      "name": "PARVEZ MINA",
+      "father_name": "AZIZUR MINA",
+      "mother_name": "NURJAHAN",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "518312",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. JUBAYER JAMADDAR",
+      "father_name": "MD. SAGOR JAMADDAR",
+      "mother_name": "MST. ROZINA AKTER",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "668098",
+      "regno": "",
+      "reg_no": "",
+      "name": "TASNIA TAZIN",
+      "father_name": "KHANDOKER RABIUL HAQUE",
+      "mother_name": "SHAHINA KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.42",
+      "gpa": 3.42,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668099",
+      "regno": "",
+      "reg_no": "",
+      "name": "BANANI ROY",
+      "father_name": "PATIT  PABAN ROY",
+      "mother_name": "SUMITRA ROY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.42",
+      "gpa": 3.42,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668100",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHIRABONY  SHIL",
+      "father_name": "PONGKOJ KUMAR SHIL",
+      "mother_name": "MUKTI RANI SHIL",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668101",
+      "regno": "",
+      "reg_no": "",
+      "name": "MASPIA SULTANA ONTI",
+      "father_name": "JILLUR RAHMAN",
+      "mother_name": "MST. KURMI SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668102",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SANZIDA KHANAM",
+      "father_name": "KHONDOKAR NASRUL IALAM",
+      "mother_name": "NAZMUN NAHER",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668103",
+      "regno": "",
+      "reg_no": "",
+      "name": "FATEMA  KHANAM",
+      "father_name": "FARUK MOLLA",
+      "mother_name": "JOTHSNA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668104",
+      "regno": "",
+      "reg_no": "",
+      "name": "BOISHAKHI BISWAS",
+      "father_name": "SUKUMAR BISWAS",
+      "mother_name": "UNNOTI BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668105",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. AKHI KHANAM",
+      "father_name": "ABU TALAB SIKDAR",
+      "mother_name": "MST. AMBIA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668106",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JANNATI KHATUN",
+      "father_name": "MD. MANIK MOLLA",
+      "mother_name": "MAHARUN NESHA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668107",
+      "regno": "",
+      "reg_no": "",
+      "name": "SNEHA AKTER BRISTI",
+      "father_name": "MD TARIQUL MOLLAH",
+      "mother_name": "SONALY YESMIN HERA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668108",
+      "regno": "",
+      "reg_no": "",
+      "name": "RITA KAHANAM",
+      "father_name": "MD. MOTALEB HOSSEN",
+      "mother_name": "MST. HAMIDA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668109",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SHAMIMA AKTER RIMI",
+      "father_name": "ABDUL WADUD MOLLA",
+      "mother_name": "MST. TANJIRA  KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "668110",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. YEASMIN AKTER BRISTI",
+      "father_name": "MD. MANNU JOMADDAR",
+      "mother_name": "MST. SUFIA KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668111",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SINTHIA AFRIN MEGHLA",
+      "father_name": "MD. LITON",
+      "mother_name": "LIMA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668112",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. TANHA KHATUN",
+      "father_name": "ATIAR RAHMAN",
+      "mother_name": "SHAHINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": []
+    },
+    {
+      "roll": "668113",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SURAIYA KHANUM",
+      "father_name": "MD. MINTU MOLLA",
+      "mother_name": "NAZMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668114",
+      "regno": "",
+      "reg_no": "",
+      "name": "TAMANNA KHANOM",
+      "father_name": "NOZIR MOLLA",
+      "mother_name": "JASMIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668115",
+      "regno": "",
+      "reg_no": "",
+      "name": "SADIYA JAMAN",
+      "father_name": "AKUBBER MRIDA",
+      "mother_name": "MORIUM KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668116",
+      "regno": "",
+      "reg_no": "",
+      "name": "KHADIZA KHANAM",
+      "father_name": "ROBIUL MINA",
+      "mother_name": "FERDOUSI",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": []
+    },
+    {
+      "roll": "668117",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SETU KHANAM",
+      "father_name": "MD. HABIL KHAN",
+      "mother_name": "MST. SHAKILA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668118",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. TANIA KHATUN",
+      "father_name": "MD.A JALAL MOLLA",
+      "mother_name": "FORIDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668119",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SHAMIMA",
+      "father_name": "MD. TOUHID MOLLA",
+      "mother_name": "MST. JIBON NESA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668120",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SETU KHANUM",
+      "father_name": "ALAK MINA",
+      "mother_name": "SAKIA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668121",
+      "regno": "",
+      "reg_no": "",
+      "name": "ERANI KHANAM",
+      "father_name": "SAHIDUL ISLAM",
+      "mother_name": "SAHANAZ BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668122",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SUBONYA KHANOM",
+      "father_name": "GOLAM MOSTOFA",
+      "mother_name": "MST. ZARNA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668123",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SHERMIN AKTER LIZA",
+      "father_name": "MD. SHAHA ALAM",
+      "mother_name": "MST. REKHA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668124",
+      "regno": "",
+      "reg_no": "",
+      "name": "HASAN KHA",
+      "father_name": "MD. MASHIAR RAHMAN KHA",
+      "mother_name": "MST. SALEHA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668125",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. NORUL AMIN",
+      "father_name": "MD.MOTALEB MOLLA",
+      "mother_name": "MST. JESMIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668126",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHAWON ISLAM",
+      "father_name": "MD. EMDADUL ISLAM",
+      "mother_name": "MST. RIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "668127",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ANAS MOLLA",
+      "father_name": "MD. NAZIM  UDDIN",
+      "mother_name": "MARRYA KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668128",
+      "regno": "",
+      "reg_no": "",
+      "name": "RONEY SIKDAR",
+      "father_name": "PIQUL SIKDAR",
+      "mother_name": "SAHANAZ",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668129",
+      "regno": "",
+      "reg_no": "",
+      "name": "DIPTO DEY",
+      "father_name": "CHATANO KUMAR DEY",
+      "mother_name": "KAKALI RANI DEY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668130",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. JUWEL MOLLA",
+      "father_name": "ZILLUR RAHMAN",
+      "mother_name": "REXONA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668131",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ABU HURAIRA",
+      "father_name": "MD. MONIRUZZAMAN",
+      "mother_name": "LIZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.17",
+      "gpa": 4.17,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668132",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ASHIKUR RAHMAN",
+      "father_name": "MD. MOTIAR RAHMAN",
+      "mother_name": "MST. SHAMSUNNAHAR SWEET",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668133",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. FAHIM SIKDAR",
+      "father_name": "HUMAYUN KABIR",
+      "mother_name": "MST. KEA KHAUTN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668134",
+      "regno": "",
+      "reg_no": "",
+      "name": "ARAFAT FOKIR",
+      "father_name": "MD. MOKTER HOSSAIN",
+      "mother_name": "MONIRA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668135",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. NAZMUL KHAN",
+      "father_name": "MD. KAMAL HOSEEN",
+      "mother_name": "MST. NAZMA KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "668136",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. RIFAT KHAN",
+      "father_name": "MD. ERSHAD KHAN",
+      "mother_name": "MST. RAHIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "668137",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SOIKOT MINA",
+      "father_name": "ABDUL GAFFAR MINA",
+      "mother_name": "NARGIS PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668138",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SALAUDDIN",
+      "father_name": "MD. SAGOR CHOWDHURY",
+      "mother_name": "SHARMIN AKTER",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668139",
+      "regno": "",
+      "reg_no": "",
+      "name": "BISHAL BISWAS",
+      "father_name": "GOUR BISWAS",
+      "mother_name": "MINA RANI BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668140",
+      "regno": "",
+      "reg_no": "",
+      "name": "ALI REZA SIAM",
+      "father_name": "MD. OHIDUR RAHMAN",
+      "mother_name": "JESMIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "668141",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. HABIBULLAH SARDAR",
+      "father_name": "MD. WAZED ALI",
+      "mother_name": "MST. BEAUTY KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "668142",
+      "regno": "",
+      "reg_no": "",
+      "name": "ARPON DAS",
+      "father_name": "LATE PRODIP DAS",
+      "mother_name": "SAPNA RANI DAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "668143",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. TITASH SHEIKH",
+      "father_name": "MD. SHAHABUR SHEIKH",
+      "mother_name": "MST. HOSNEARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.50",
+      "gpa": 2.5,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "668144",
+      "regno": "",
+      "reg_no": "",
+      "name": "UZZAL BISWAS",
+      "father_name": "SAGAR BISWAS",
+      "mother_name": "MADHUMALA BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.42",
+      "gpa": 2.42,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "668145",
+      "regno": "",
+      "reg_no": "",
+      "name": "ANTOR BISWAS",
+      "father_name": "POBITRO BISWAS",
+      "mother_name": "SOBITA RANI BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "668146",
+      "regno": "",
+      "reg_no": "",
+      "name": "SREEKANTO PODDER",
+      "father_name": "LET. SREEBAS PODDER",
+      "mother_name": "RINKU RANI PODDER",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "668147",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. ABDULLA KHAN",
+      "father_name": "MD. AZAD KHAN",
+      "mother_name": "MST. ASMA KHATUN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.75",
+      "gpa": 2.75,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810639",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JINIA KHANAM",
+      "father_name": "MD. JAHAGIR ALAM",
+      "mother_name": "MST. KHADIZA KHANAM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "810640",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. MIM AKTER",
+      "father_name": "SHAIKH MASUD ALI",
+      "mother_name": "RUKHSANA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.50",
+      "gpa": 3.5,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810641",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JAKIA KHANOM",
+      "father_name": "ZIAUR RAHMAN",
+      "mother_name": "MST. SATHI BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.58",
+      "gpa": 3.58,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "810642",
+      "regno": "",
+      "reg_no": "",
+      "name": "KAZI NAYEM HOSSEN",
+      "father_name": "KAZI HAFIZUR RAHMAN",
+      "mother_name": "MST. ABIRONNESA",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "810643",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. IMON MRIDHA",
+      "father_name": "MD. LIKHON MRIDHA",
+      "mother_name": "ROWSHONARA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118531,
+      "college_name": "Habokhali Adarsha Mahabiddalay",
+      "institute": "Habokhali Adarsha Mahabiddalay",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    }
+  ]
+}

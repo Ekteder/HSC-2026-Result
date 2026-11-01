@@ -1,0 +1,3357 @@
+{
+  "eiin": 131996,
+  "college_name": "Birshestra Noormohammad Mahabiddyalya",
+  "name": "Birshestra Noormohammad Mahabiddyalya",
+  "bengali_name": "বীরশ্রেষ্ঠ নূর মোহাম্মদ মহাবিদ্যালয়",
+  "center": "NARAIL - 325",
+  "upazila": "Narail Sadar",
+  "upazila_detail": "Narail Sadar",
+  "established": "2008",
+  "total_registered": 45,
+  "total_appeared": 45,
+  "total_passed": 6,
+  "total_failed": 39,
+  "total_gpa5": 0,
+  "pass_rate": 13.33,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 4,
+      "passed": 0,
+      "failed": 4,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 2,
+      "f2": 2,
+      "pass_rate": 0.0,
+      "roll_min": 520753,
+      "roll_max": 520756
+    },
+    "Humanities": {
+      "appeared": 38,
+      "passed": 6,
+      "failed": 32,
+      "gpa5": 0,
+      "absent": 3,
+      "expelled": 0,
+      "f1": 18,
+      "f2": 7,
+      "pass_rate": 15.79,
+      "roll_min": 677474,
+      "roll_max": 682189
+    },
+    "Business Studies": {
+      "appeared": 3,
+      "passed": 0,
+      "failed": 3,
+      "gpa5": 0,
+      "absent": 1,
+      "expelled": 0,
+      "f1": 1,
+      "f2": 0,
+      "pass_rate": 0.0,
+      "roll_min": 811490,
+      "roll_max": 811492
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 0,
+    "gpa_4_to_5": 2,
+    "gpa_3_5_to_4": 0,
+    "gpa_3_to_3_5": 3,
+    "gpa_2_to_3": 1,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 39,
+    "total": 45
+  },
+  "statistics": {
+    "total_registered": 45,
+    "total_appeared": 45,
+    "total_passed": 6,
+    "total_failed": 39,
+    "pass_rate": 13.33,
+    "gpa5_count": 0,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 4,
+        "passed": 0,
+        "failed": 4,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      },
+      "humanities": {
+        "appeared": 38,
+        "passed": 6,
+        "failed": 32,
+        "gpa5": 0,
+        "pass_rate": 15.79
+      },
+      "business_studies": {
+        "appeared": 3,
+        "passed": 0,
+        "failed": 3,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 0,
+      "gpa_4_to_5": 2,
+      "gpa_35_to_4": 0,
+      "gpa_3_to_35": 3,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "gpa_0": 39
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 4,
+      "passed": 0,
+      "failed": 4,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    },
+    "Humanities": {
+      "total": 38,
+      "passed": 6,
+      "failed": 32,
+      "gpa5": 0,
+      "pass_rate": 15.79
+    },
+    "Business Studies": {
+      "total": 3,
+      "passed": 0,
+      "failed": 3,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    }
+  },
+  "students": [
+    {
+      "roll": "520753",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. MAHIMA TAJRIN MAHMUDA",
+      "father_name": "MD. MAHABUR MOLLA",
+      "mother_name": "MST. RUNA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "520754",
+      "regno": "",
+      "reg_no": "",
+      "name": "INDROJIT MRIDHA",
+      "father_name": "MONIPADH MRIDHA",
+      "mother_name": "SHAMPA MRIDHA",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "520755",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. NASIM MOLLA",
+      "father_name": "MD. HANZILA MOLLA",
+      "mother_name": "MST. SURMA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "520756",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATUL FERDOUS",
+      "father_name": "MD. BADSHA MOLLA",
+      "mother_name": "MST. MITU",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "677474",
+      "regno": "",
+      "reg_no": "",
+      "name": "MEGLA KHANDOKER",
+      "father_name": "KHANDOKER AROB ALI",
+      "mother_name": "MINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "677475",
+      "regno": "",
+      "reg_no": "",
+      "name": "RIMPA SAHA",
+      "father_name": "ANANDA KUMAR SAHA",
+      "mother_name": "KAKALI RANI SAHA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "677476",
+      "regno": "",
+      "reg_no": "",
+      "name": "MOONTAHA BINTE MAHMUD",
+      "father_name": "MAHMUDUL HAQUE",
+      "mother_name": "MAHMUDA SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.08",
+      "gpa": 4.08,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "677477",
+      "regno": "",
+      "reg_no": "",
+      "name": "SADIYA KHANOM",
+      "father_name": "SYED RIAZ ALI",
+      "mother_name": "SHAHANARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677478",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATUL FARDOUS",
+      "father_name": "SHORIFUL ISLAM",
+      "mother_name": "SHILPI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "677479",
+      "regno": "",
+      "reg_no": "",
+      "name": "NADIA",
+      "father_name": "MAFIZUR ISLAM NABIR",
+      "mother_name": "MST NAZMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.42",
+      "gpa": 4.42,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "677480",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST MIM",
+      "father_name": "MD REJAUL KARIM",
+      "mother_name": "MST NASREN SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "677481",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST SHAMME SULTANA",
+      "father_name": "MD. SARAZAHAN VUHAH",
+      "mother_name": "MST ANY SULTANA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677482",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST SHERENA KHANAM",
+      "father_name": "MD SOHID MOLLA",
+      "mother_name": "MST SUNALI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "677483",
+      "regno": "",
+      "reg_no": "",
+      "name": "TANNI AKTER BRISTY",
+      "father_name": "MD KUTUBUDDIN BHUYAN",
+      "mother_name": "MST SHILPI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677484",
+      "regno": "",
+      "reg_no": "",
+      "name": "MARIA KHAMAN",
+      "father_name": "MD.  MUSTOFAH",
+      "mother_name": "MST. NASRIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677485",
+      "regno": "",
+      "reg_no": "",
+      "name": "TULY DEBARROUS TULIP",
+      "father_name": "HANEYMAN  DEBARROUS",
+      "mother_name": "SHAMOLI SOM MARTHA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "677486",
+      "regno": "",
+      "reg_no": "",
+      "name": "LIMA BISWAS",
+      "father_name": "MILON KUMAR BISWAS",
+      "mother_name": "SABITRE BALA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "677487",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. NUSRAT FARIA",
+      "father_name": "MD. MIZANUR RAHOMAN",
+      "mother_name": "SARZINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677488",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SARMIN KHANAM",
+      "father_name": "MD. NURMIYA SHEAIKH",
+      "mother_name": "MST. JESMIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "677489",
+      "regno": "",
+      "reg_no": "",
+      "name": "NAIYMA KHANOM",
+      "father_name": "MD. CHUNNU SHEIKH",
+      "mother_name": "PIARY BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677490",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMAYA KHANOM",
+      "father_name": "MD. MOFIJUR SHEIKH",
+      "mother_name": "ROJINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677491",
+      "regno": "",
+      "reg_no": "",
+      "name": "MURSHIDA KHANOM",
+      "father_name": "MD. HUMAYUN SHIKDAR",
+      "mother_name": "RAJIA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677492",
+      "regno": "",
+      "reg_no": "",
+      "name": "FATEMA KHANOM",
+      "father_name": "MD. HEMAET MOLLA",
+      "mother_name": "NARGIS KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677493",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATHE KHANOM",
+      "father_name": "MD SARZAN MOLLA",
+      "mother_name": "MST REXONA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677494",
+      "regno": "",
+      "reg_no": "",
+      "name": "FATEMA KHANOM",
+      "father_name": "MD. MOSTAK MOLLA",
+      "mother_name": "NARGIS BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677495",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD MAHADI HASAN",
+      "father_name": "MD ARJAN HOSEN",
+      "mother_name": "MST MUKTA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677496",
+      "regno": "",
+      "reg_no": "",
+      "name": "FARHAD",
+      "father_name": "MD. RAJU MIA DUKHU",
+      "mother_name": "FARJANA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677497",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD SHOFIK RANA",
+      "father_name": "MD MOFIZUR RAHMAN",
+      "mother_name": "LOVELY YASMIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "677498",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. EMON MOLLA",
+      "father_name": "MD. ALIM HOSSION MOLLA",
+      "mother_name": "MST. ROZINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "677499",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. RIAZ SHEIKH",
+      "father_name": "MD. NURMIYA SHEAIKH",
+      "mother_name": "MST. JESMIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677500",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. JAHID MINA",
+      "father_name": "M.M.ASRAFUL ALAM KAYER",
+      "mother_name": "TAHAMINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677501",
+      "regno": "",
+      "reg_no": "",
+      "name": "KAZI NIRAB HOSSAIN MUNNA",
+      "father_name": "KAZI MIRAZ HOSSAIN",
+      "mother_name": "NILUFA YEASMIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "677502",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. REDOY HASSAN MOLLA",
+      "father_name": "MD. ZAHIDUR RAHMAN",
+      "mother_name": "MST. RUPA KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "677503",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD ABU RAIHAN",
+      "father_name": "MD TORIKUL ISLAM",
+      "mother_name": "MST RUPALI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677504",
+      "regno": "",
+      "reg_no": "",
+      "name": "MUBIN SHEIKH",
+      "father_name": "MD. MASHIAR SHEIKH",
+      "mother_name": "MST. MANIRA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677505",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. HRIDAY MOLLA",
+      "father_name": "MD. BABLU MOLLA",
+      "mother_name": "MST. REXONA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.17",
+      "gpa": 3.17,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677506",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. MIRAN GUMARDAR",
+      "father_name": "MD. HALIM GUMARDAR",
+      "mother_name": "MST.SERINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.75",
+      "gpa": 2.75,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "677507",
+      "regno": "",
+      "reg_no": "",
+      "name": "JAHIRUL ISLAM RONY",
+      "father_name": "MD. SHAHID SHEIKH",
+      "mother_name": "MST. JASMIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "121",
+          "name": "Logic",
+          "subject": "Logic",
+          "grade": "X",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "677508",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAMIUL MOLLA",
+      "father_name": "MD. KARIM MOLLA",
+      "mother_name": "NAJMIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.17",
+      "gpa": 3.17,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "677509",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHIFAT BIN RAHAT",
+      "father_name": "MD. MIZANOOR RAHMAN",
+      "mother_name": "MST. IRANI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "682188",
+      "regno": "",
+      "reg_no": "",
+      "name": "KHADIJA AKTHAR MILI",
+      "father_name": "MD.MOSHIUR RAHMAN",
+      "mother_name": "RIKTA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "682189",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. NAYON SHEIKH",
+      "father_name": "MD. RAFIQUL ISLAM",
+      "mother_name": "MST. RAHIMA KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "811490",
+      "regno": "",
+      "reg_no": "",
+      "name": "TONNI KHANAM",
+      "father_name": "MD. SABUR BISWAS",
+      "mother_name": "MST. MORIUM BISWAS",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "811491",
+      "regno": "",
+      "reg_no": "",
+      "name": "JAYNUL ABEDIN",
+      "father_name": "MD. SOLAIMAN MOLLA",
+      "mother_name": "MST. SAMSUN NAHAR",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "D",
+          "point": 1.0
+        }
+      ]
+    },
+    {
+      "roll": "811492",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAJIB SHEIKH",
+      "father_name": "MD. SYFUR SHEIKH",
+      "mother_name": "MST. FULMOTI BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 131996,
+      "college_name": "Birshestra Noormohammad Mahabiddyalya",
+      "institute": "Birshestra Noormohammad Mahabiddyalya",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    }
+  ]
+}

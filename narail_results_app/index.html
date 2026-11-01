@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Narail District HSC 2026 Examination Results & Analytics Dashboard</title>
+    <meta name="description" content="Official HSC Examination 2026 college-wise and individual student results for Narail District under Board of Intermediate and Secondary Education, Jashore." />
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <!-- Site Header -->
+    <header class="site-header">
+      <div class="container">
+        <div class="flex justify-between items-center">
+          <div class="flex items-center gap-3">
+            <div style="background: rgba(255,255,255,0.2); width: 44px; height: 44px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800;">
+              🎓
+            </div>
+            <div>
+              <h1 style="font-size: 1.25rem; font-weight: 800; line-height: 1.2;">Narail HSC 2026 Results Portal</h1>
+              <p style="font-size: 0.8rem; opacity: 0.85;">Board of Intermediate & Secondary Education, Jashore</p>
+            </div>
+          </div>
+          <div class="brand-badge no-print">
+            Official Data &bull; 24 Colleges
+          </div>
+        </div>
+
+        <!-- Navigation Tabs -->
+        <nav class="nav-tabs no-print" aria-label="Portal Navigation">
+          <button class="nav-tab-btn active" data-tab="analytics">
+            <span>📊</span> District Analytics & KPIs
+          </button>
+          <button class="nav-tab-btn" data-tab="roster">
+            <span>🎓</span> Student Results & Roster
+          </button>
+          <button class="nav-tab-btn" data-tab="colleges">
+            <span>🏫</span> 24 Colleges Leaderboard
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Hero Search Section -->
+    <section class="hero-section no-print">
+      <div class="container">
+        <h2 class="hero-title">Find Your HSC 2026 Results</h2>
+        <p class="hero-subtitle">
+          Instant student marksheets and performance analytics for all 5,065 candidates across Narail Sadar, Lohagara, and Kalia.
+        </p>
+
+        <!-- Search Hero Container -->
+        <div id="search-hero-container">
+          <div class="search-container">
+            <div class="search-box-wrapper">
+              <input 
+                type="search" 
+                id="hero-search-input" 
+                class="search-input-field" 
+                placeholder="Enter 6-digit Roll No., Registration No., or Student Name..."
+                autocomplete="off"
+                inputmode="numeric"
+              />
+              <button id="hero-search-submit" class="search-submit-btn">
+                <span>Search</span>
+                <span>&rarr;</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Loading Indicator -->
+        <div id="app-loading-indicator" style="margin-top: 1rem; font-size: 0.9rem; font-weight: 500; color: rgba(255,255,255,0.9);">
+          Initializing in-memory database...
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Area -->
+    <main class="container" style="padding-top: 2rem; padding-bottom: 3rem;">
+      <!-- View 1: Analytics Dashboard -->
+      <section id="analytics-view">
+        <!-- Rendered by AnalyticsDashboard.js -->
+      </section>
+
+      <!-- View 2: Student Roster & Filters -->
+      <section id="roster-view" style="display: none;">
+        <div id="student-roster-section">
+          <div style="margin-bottom: 1.25rem;">
+            <h2 style="font-size: 1.35rem; font-weight: 700; color: #1e3a8a;">Student Examination Records</h2>
+            <p style="font-size: 0.85rem; color: #64748b;">Filter across all 24 colleges, 3 streams, GPA ranges, and examination statuses.</p>
+          </div>
+
+          <div id="filter-panel-container">
+            <!-- Rendered by FilterPanel.js -->
+          </div>
+
+          <div id="student-table-container">
+            <!-- Rendered by StudentTable.js -->
+          </div>
+        </div>
+      </section>
+
+      <!-- View 3: 24 Colleges Performance Matrix -->
+      <section id="colleges-view" style="display: none;">
+        <!-- Rendered by CollegeMatrix.js -->
+      </section>
+    </main>
+
+    <!-- Student Marksheet / Grade Sheet Modal -->
+    <div id="student-modal" class="modal-backdrop" aria-hidden="true" role="dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button class="modal-close-btn" aria-label="Close modal">&times;</button>
+          <div class="flex justify-between items-start" style="padding-right: 2rem;">
+            <div>
+              <span id="modal-stream" class="badge badge-stream-science" style="margin-bottom: 0.5rem; display: inline-block;">
+                SCIENCE
+              </span>
+              <h2 id="modal-student-name" style="font-size: 1.35rem; font-weight: 800; line-height: 1.2;">
+                STUDENT NAME
+              </h2>
+              <p id="modal-institute-name" style="font-size: 0.9rem; opacity: 0.9; margin-top: 0.25rem;">
+                College Name
+              </p>
+            </div>
+            <div>
+              <span id="modal-status-pill" class="badge badge-passed" style="font-size: 0.9rem; padding: 0.35rem 0.85rem;">
+                PASSED &bull; GPA 5.00
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-body">
+          <!-- Identity Info Grid -->
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3" style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem;">
+            <div>
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Roll Number</div>
+              <div id="modal-roll" style="font-weight: 700; font-size: 1.05rem; color: #1e3a8a;">-</div>
+            </div>
+            <div>
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Registration No</div>
+              <div id="modal-reg" style="font-weight: 600; font-size: 0.95rem;">-</div>
+            </div>
+            <div>
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Session</div>
+              <div id="modal-session" style="font-weight: 600; font-size: 0.95rem;">2024-25</div>
+            </div>
+            <div>
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Examinee Type</div>
+              <div id="modal-type" style="font-weight: 600; font-size: 0.95rem;">REGULAR</div>
+            </div>
+            <div class="sm:col-span-2">
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Father's Name</div>
+              <div id="modal-father" style="font-weight: 600; font-size: 0.95rem;">-</div>
+            </div>
+            <div class="sm:col-span-2">
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Mother's Name</div>
+              <div id="modal-mother" style="font-weight: 600; font-size: 0.95rem;">-</div>
+            </div>
+            <div class="sm:col-span-4" style="border-top: 1px dashed #cbd5e1; padding-top: 0.5rem; margin-top: 0.25rem;">
+              <div style="font-size: 0.75rem; color: #64748b; text-transform: uppercase;">Exam Center</div>
+              <div id="modal-center" style="font-weight: 500; font-size: 0.85rem; color: #475569;">-</div>
+            </div>
+          </div>
+
+          <!-- Subject Grade Sheet -->
+          <h3 style="font-size: 1.05rem; font-weight: 700; color: #1e3a8a; margin-bottom: 0.75rem;">
+            Academic Grade Sheet
+          </h3>
+          <div class="table-container" style="border-radius: 8px;">
+            <table class="results-table" style="font-size: 0.875rem;">
+              <thead>
+                <tr>
+                  <th>Subject</th>
+                  <th style="text-align: center; width: 100px;">Letter Grade</th>
+                  <th style="text-align: right; width: 100px;">Grade Point</th>
+                </tr>
+              </thead>
+              <tbody id="modal-subjects-body">
+                <!-- Populated dynamically -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="modal-footer no-print">
+          <button id="modal-share-btn" class="filter-pill-btn" style="display: flex; align-items: center; gap: 0.35rem;">
+            📋 Share Link
+          </button>
+          <button id="modal-print-btn" class="filter-pill-btn active" style="display: flex; align-items: center; gap: 0.35rem;">
+            🖨️ Print Marksheet
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Site Footer -->
+    <footer style="background: white; border-top: 1px solid var(--border); padding: 2rem 0; margin-top: 4rem; text-align: center; color: #64748b; font-size: 0.85rem;" class="no-print">
+      <div class="container">
+        <p style="font-weight: 600; color: #1e3a8a;">Board of Intermediate and Secondary Education, Jashore</p>
+        <p style="margin-top: 0.25rem;">HSC Examination 2026 &bull; Narail District Official Gazette & Results Engine</p>
+        <p style="margin-top: 0.75rem; font-size: 0.775rem; color: #94a3b8;">
+          Reconciled across all 24 institutions: 5,065 examinees &bull; 1,776 passed &bull; 105 GPA 5.00
+        </p>
+      </div>
+    </footer>
+
+    <!-- Application Script -->
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

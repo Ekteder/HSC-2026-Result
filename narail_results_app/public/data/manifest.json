@@ -1,0 +1,1119 @@
+{
+  "district": "Narail",
+  "board": "Board of Intermediate and Secondary Education, Jashore",
+  "exam": "Higher Secondary Certificate Examination 2026",
+  "publication_date": "31 October, 2026",
+  "summary": {
+    "total_colleges": 24,
+    "total_examinees": 5065,
+    "total_appeared": 5065,
+    "total_passed": 1776,
+    "total_failed": 3289,
+    "pass_rate": 35.06,
+    "gpa5_count": 105,
+    "streams": {
+      "Science": {
+        "appeared": 815,
+        "passed": 458,
+        "failed": 357,
+        "gpa5": 56,
+        "pass_rate": 56.2
+      },
+      "Humanities": {
+        "appeared": 3748,
+        "passed": 1168,
+        "failed": 2580,
+        "gpa5": 45,
+        "pass_rate": 31.16
+      },
+      "Business Studies": {
+        "appeared": 502,
+        "passed": 150,
+        "failed": 352,
+        "gpa5": 4,
+        "pass_rate": 29.88
+      }
+    },
+    "upazilas": {
+      "Narail Sadar": {
+        "colleges_count": 12,
+        "appeared": 2356,
+        "passed": 982,
+        "gpa5": 80,
+        "pass_rate": 41.68
+      },
+      "Lohagara": {
+        "colleges_count": 7,
+        "appeared": 1751,
+        "passed": 534,
+        "gpa5": 19,
+        "pass_rate": 30.5
+      },
+      "Kalia": {
+        "colleges_count": 5,
+        "appeared": 958,
+        "passed": 260,
+        "gpa5": 6,
+        "pass_rate": 27.14
+      }
+    }
+  },
+  "colleges": [
+    {
+      "eiin": 118382,
+      "name": "Monoranjan Kapuria College",
+      "bengali_name": "মনোরঞ্জন কাপুড়িয়া কলেজ",
+      "upazila": "Kalia",
+      "center": "PEROLY - 419",
+      "total_appeared": 155,
+      "total_passed": 37,
+      "total_failed": 118,
+      "pass_rate": 23.87,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 9,
+          "passed": 6,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 66.67
+        },
+        "Humanities": {
+          "total": 124,
+          "passed": 22,
+          "failed": 102,
+          "gpa5": 0,
+          "pass_rate": 17.74
+        },
+        "Business Studies": {
+          "total": 22,
+          "passed": 9,
+          "failed": 13,
+          "gpa5": 0,
+          "pass_rate": 40.91
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 5,
+        "gpa_35_to_4": 7,
+        "gpa_3_to_35": 16,
+        "gpa_2_to_3": 9,
+        "gpa_1_to_2": 0,
+        "gpa_0": 118
+      }
+    },
+    {
+      "eiin": 118383,
+      "name": "Munshi Manik Mia College",
+      "bengali_name": "মুন্সি মানিক মিয়া ডিগ্রি কলেজ",
+      "upazila": "Kalia",
+      "center": "KALIA - 323",
+      "total_appeared": 287,
+      "total_passed": 87,
+      "total_failed": 200,
+      "pass_rate": 30.31,
+      "gpa5_count": 1,
+      "stream_summary": {
+        "Science": {
+          "total": 25,
+          "passed": 12,
+          "failed": 13,
+          "gpa5": 0,
+          "pass_rate": 48.0
+        },
+        "Humanities": {
+          "total": 250,
+          "passed": 73,
+          "failed": 177,
+          "gpa5": 1,
+          "pass_rate": 29.2
+        },
+        "Business Studies": {
+          "total": 12,
+          "passed": 2,
+          "failed": 10,
+          "gpa5": 0,
+          "pass_rate": 16.67
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 1,
+        "gpa_4_to_5": 16,
+        "gpa_35_to_4": 16,
+        "gpa_3_to_35": 32,
+        "gpa_2_to_3": 22,
+        "gpa_1_to_2": 0,
+        "gpa_0": 200
+      }
+    },
+    {
+      "eiin": 118385,
+      "name": "Govt. Shaheed Abdus Salam College",
+      "bengali_name": "সরকারি শহীদ আব্দুস সালাম কলেজ",
+      "upazila": "Kalia",
+      "center": "BARDIA - 324",
+      "total_appeared": 273,
+      "total_passed": 72,
+      "total_failed": 201,
+      "pass_rate": 26.37,
+      "gpa5_count": 5,
+      "stream_summary": {
+        "Science": {
+          "total": 30,
+          "passed": 10,
+          "failed": 20,
+          "gpa5": 0,
+          "pass_rate": 33.33
+        },
+        "Humanities": {
+          "total": 224,
+          "passed": 55,
+          "failed": 169,
+          "gpa5": 5,
+          "pass_rate": 24.55
+        },
+        "Business Studies": {
+          "total": 19,
+          "passed": 7,
+          "failed": 12,
+          "gpa5": 0,
+          "pass_rate": 36.84
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 5,
+        "gpa_4_to_5": 9,
+        "gpa_35_to_4": 19,
+        "gpa_3_to_35": 23,
+        "gpa_2_to_3": 15,
+        "gpa_1_to_2": 1,
+        "gpa_0": 201
+      }
+    },
+    {
+      "eiin": 118386,
+      "name": "Habibul Alam Bir Protik College",
+      "bengali_name": "হাবিবুল আলম বীর প্রতীক কলেজ",
+      "upazila": "Kalia",
+      "center": "KALIA - 323",
+      "total_appeared": 166,
+      "total_passed": 49,
+      "total_failed": 117,
+      "pass_rate": 29.52,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 11,
+          "passed": 4,
+          "failed": 7,
+          "gpa5": 0,
+          "pass_rate": 36.36
+        },
+        "Humanities": {
+          "total": 144,
+          "passed": 37,
+          "failed": 107,
+          "gpa5": 0,
+          "pass_rate": 25.69
+        },
+        "Business Studies": {
+          "total": 11,
+          "passed": 8,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 72.73
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 2,
+        "gpa_35_to_4": 17,
+        "gpa_3_to_35": 19,
+        "gpa_2_to_3": 11,
+        "gpa_1_to_2": 0,
+        "gpa_0": 117
+      }
+    },
+    {
+      "eiin": 118384,
+      "name": "Naragati College",
+      "bengali_name": "নড়াগাতী মহাবিদ্যালয়",
+      "upazila": "Kalia",
+      "center": "BARDIA - 324",
+      "total_appeared": 77,
+      "total_passed": 15,
+      "total_failed": 62,
+      "pass_rate": 19.48,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 8,
+          "passed": 1,
+          "failed": 7,
+          "gpa5": 0,
+          "pass_rate": 12.5
+        },
+        "Humanities": {
+          "total": 62,
+          "passed": 13,
+          "failed": 49,
+          "gpa5": 0,
+          "pass_rate": 20.97
+        },
+        "Business Studies": {
+          "total": 7,
+          "passed": 1,
+          "failed": 6,
+          "gpa5": 0,
+          "pass_rate": 14.29
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 0,
+        "gpa_35_to_4": 3,
+        "gpa_3_to_35": 3,
+        "gpa_2_to_3": 9,
+        "gpa_1_to_2": 0,
+        "gpa_0": 62
+      }
+    },
+    {
+      "eiin": 118404,
+      "name": "Makrail Karim Khalek Solaiman Institution",
+      "bengali_name": "মাকড়াইল করিম খালেক সোলায়মান ইনস্টিটিউশন",
+      "upazila": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "total_appeared": 49,
+      "total_passed": 0,
+      "total_failed": 49,
+      "pass_rate": 0.0,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 0,
+          "passed": 0,
+          "failed": 0,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 49,
+          "passed": 0,
+          "failed": 49,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Business Studies": {
+          "total": 0,
+          "passed": 0,
+          "failed": 0,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 0,
+        "gpa_35_to_4": 0,
+        "gpa_3_to_35": 0,
+        "gpa_2_to_3": 0,
+        "gpa_1_to_2": 0,
+        "gpa_0": 49
+      }
+    },
+    {
+      "eiin": 118435,
+      "name": "Lahuria S.M.A. Ahad College",
+      "bengali_name": "লাহুড়িয়া এস.এম.এ আহাদ কলেজ",
+      "upazila": "Lohagara",
+      "center": "NOHATA - 415",
+      "total_appeared": 264,
+      "total_passed": 61,
+      "total_failed": 203,
+      "pass_rate": 23.11,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 17,
+          "passed": 2,
+          "failed": 15,
+          "gpa5": 0,
+          "pass_rate": 11.76
+        },
+        "Humanities": {
+          "total": 225,
+          "passed": 55,
+          "failed": 170,
+          "gpa5": 0,
+          "pass_rate": 24.44
+        },
+        "Business Studies": {
+          "total": 22,
+          "passed": 4,
+          "failed": 18,
+          "gpa5": 0,
+          "pass_rate": 18.18
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 6,
+        "gpa_35_to_4": 16,
+        "gpa_3_to_35": 20,
+        "gpa_2_to_3": 18,
+        "gpa_1_to_2": 1,
+        "gpa_0": 203
+      }
+    },
+    {
+      "eiin": 118436,
+      "name": "Laxmipasha Ideal Women College",
+      "bengali_name": "লক্ষ্মীপাশা আদর্শ মহিলা ডিগ্রি কলেজ",
+      "upazila": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "total_appeared": 236,
+      "total_passed": 34,
+      "total_failed": 202,
+      "pass_rate": 14.41,
+      "gpa5_count": 3,
+      "stream_summary": {
+        "Science": {
+          "total": 9,
+          "passed": 5,
+          "failed": 4,
+          "gpa5": 2,
+          "pass_rate": 55.56
+        },
+        "Humanities": {
+          "total": 224,
+          "passed": 29,
+          "failed": 195,
+          "gpa5": 1,
+          "pass_rate": 12.95
+        },
+        "Business Studies": {
+          "total": 3,
+          "passed": 0,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 3,
+        "gpa_4_to_5": 1,
+        "gpa_35_to_4": 6,
+        "gpa_3_to_35": 13,
+        "gpa_2_to_3": 11,
+        "gpa_1_to_2": 0,
+        "gpa_0": 202
+      }
+    },
+    {
+      "eiin": 118437,
+      "name": "Lohagara Govt. Adarsha College",
+      "bengali_name": "লোহাগড়া সরকারি আদর্শ মহাবিদ্যালয়",
+      "upazila": "Lohagara",
+      "center": "LOHAGARA - 418",
+      "total_appeared": 580,
+      "total_passed": 285,
+      "total_failed": 295,
+      "pass_rate": 49.14,
+      "gpa5_count": 13,
+      "stream_summary": {
+        "Science": {
+          "total": 85,
+          "passed": 38,
+          "failed": 47,
+          "gpa5": 2,
+          "pass_rate": 44.71
+        },
+        "Humanities": {
+          "total": 375,
+          "passed": 201,
+          "failed": 174,
+          "gpa5": 9,
+          "pass_rate": 53.6
+        },
+        "Business Studies": {
+          "total": 120,
+          "passed": 46,
+          "failed": 74,
+          "gpa5": 2,
+          "pass_rate": 38.33
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 13,
+        "gpa_4_to_5": 63,
+        "gpa_35_to_4": 82,
+        "gpa_3_to_35": 76,
+        "gpa_2_to_3": 49,
+        "gpa_1_to_2": 2,
+        "gpa_0": 295
+      }
+    },
+    {
+      "eiin": 118438,
+      "name": "Nabaganga Mahavidyalaya",
+      "bengali_name": "নবগঙ্গা মহাবিদ্যালয়",
+      "upazila": "Lohagara",
+      "center": "LOHAGARA - 322",
+      "total_appeared": 453,
+      "total_passed": 106,
+      "total_failed": 347,
+      "pass_rate": 23.4,
+      "gpa5_count": 1,
+      "stream_summary": {
+        "Science": {
+          "total": 55,
+          "passed": 20,
+          "failed": 35,
+          "gpa5": 0,
+          "pass_rate": 36.36
+        },
+        "Humanities": {
+          "total": 379,
+          "passed": 80,
+          "failed": 299,
+          "gpa5": 1,
+          "pass_rate": 21.11
+        },
+        "Business Studies": {
+          "total": 19,
+          "passed": 6,
+          "failed": 13,
+          "gpa5": 0,
+          "pass_rate": 31.58
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 1,
+        "gpa_4_to_5": 17,
+        "gpa_35_to_4": 21,
+        "gpa_3_to_35": 40,
+        "gpa_2_to_3": 27,
+        "gpa_1_to_2": 0,
+        "gpa_0": 347
+      }
+    },
+    {
+      "eiin": 118439,
+      "name": "Amada Adarsha College",
+      "bengali_name": "আমাদা আদর্শ কলেজ",
+      "upazila": "Lohagara",
+      "center": "NABAGANGA - 412",
+      "total_appeared": 31,
+      "total_passed": 7,
+      "total_failed": 24,
+      "pass_rate": 22.58,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 1,
+          "passed": 0,
+          "failed": 1,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 29,
+          "passed": 7,
+          "failed": 22,
+          "gpa5": 0,
+          "pass_rate": 24.14
+        },
+        "Business Studies": {
+          "total": 1,
+          "passed": 0,
+          "failed": 1,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 0,
+        "gpa_35_to_4": 3,
+        "gpa_3_to_35": 0,
+        "gpa_2_to_3": 4,
+        "gpa_1_to_2": 0,
+        "gpa_0": 24
+      }
+    },
+    {
+      "eiin": 118440,
+      "name": "Itna Higher Secondary School",
+      "bengali_name": "ইতনা মাধ্যমিক বিদ্যালয় ও কলেজ",
+      "upazila": "Lohagara",
+      "center": "LOHAGARA - 322",
+      "total_appeared": 138,
+      "total_passed": 41,
+      "total_failed": 97,
+      "pass_rate": 29.71,
+      "gpa5_count": 2,
+      "stream_summary": {
+        "Science": {
+          "total": 0,
+          "passed": 0,
+          "failed": 0,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 126,
+          "passed": 36,
+          "failed": 90,
+          "gpa5": 2,
+          "pass_rate": 28.57
+        },
+        "Business Studies": {
+          "total": 12,
+          "passed": 5,
+          "failed": 7,
+          "gpa5": 0,
+          "pass_rate": 41.67
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 2,
+        "gpa_4_to_5": 7,
+        "gpa_35_to_4": 3,
+        "gpa_3_to_35": 15,
+        "gpa_2_to_3": 13,
+        "gpa_1_to_2": 1,
+        "gpa_0": 97
+      }
+    },
+    {
+      "eiin": 118521,
+      "name": "Dakshin Narail Shimulia Mahabiddyalya",
+      "bengali_name": "দক্ষিণ নড়াইল শিমুলিয়া মহাবিদ্যালয়",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "total_appeared": 47,
+      "total_passed": 10,
+      "total_failed": 37,
+      "pass_rate": 21.28,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 1,
+          "passed": 1,
+          "failed": 0,
+          "gpa5": 0,
+          "pass_rate": 100.0
+        },
+        "Humanities": {
+          "total": 41,
+          "passed": 7,
+          "failed": 34,
+          "gpa5": 0,
+          "pass_rate": 17.07
+        },
+        "Business Studies": {
+          "total": 5,
+          "passed": 2,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 40.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 1,
+        "gpa_35_to_4": 2,
+        "gpa_3_to_35": 6,
+        "gpa_2_to_3": 1,
+        "gpa_1_to_2": 0,
+        "gpa_0": 37
+      }
+    },
+    {
+      "eiin": 118522,
+      "name": "Juralia Bahumukhi Adarsa College",
+      "bengali_name": "জুরালিয়া বহুমুখী আদর্শ কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "total_appeared": 24,
+      "total_passed": 1,
+      "total_failed": 23,
+      "pass_rate": 4.17,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 3,
+          "passed": 0,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 20,
+          "passed": 1,
+          "failed": 19,
+          "gpa5": 0,
+          "pass_rate": 5.0
+        },
+        "Business Studies": {
+          "total": 1,
+          "passed": 0,
+          "failed": 1,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 0,
+        "gpa_35_to_4": 0,
+        "gpa_3_to_35": 0,
+        "gpa_2_to_3": 1,
+        "gpa_1_to_2": 0,
+        "gpa_0": 23
+      }
+    },
+    {
+      "eiin": 118523,
+      "name": "Ballartop Ideal College",
+      "bengali_name": "বাল্লারটোপ আইডিয়াল কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "total_appeared": 70,
+      "total_passed": 23,
+      "total_failed": 47,
+      "pass_rate": 32.86,
+      "gpa5_count": 1,
+      "stream_summary": {
+        "Science": {
+          "total": 18,
+          "passed": 10,
+          "failed": 8,
+          "gpa5": 0,
+          "pass_rate": 55.56
+        },
+        "Humanities": {
+          "total": 47,
+          "passed": 13,
+          "failed": 34,
+          "gpa5": 1,
+          "pass_rate": 27.66
+        },
+        "Business Studies": {
+          "total": 5,
+          "passed": 0,
+          "failed": 5,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 1,
+        "gpa_4_to_5": 4,
+        "gpa_35_to_4": 6,
+        "gpa_3_to_35": 9,
+        "gpa_2_to_3": 3,
+        "gpa_1_to_2": 0,
+        "gpa_0": 47
+      }
+    },
+    {
+      "eiin": 118524,
+      "name": "Mirzapur United College",
+      "bengali_name": "মির্জাপুর ইউনাইটেড কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "AVOYNAGAR - 386",
+      "total_appeared": 88,
+      "total_passed": 27,
+      "total_failed": 61,
+      "pass_rate": 30.68,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 2,
+          "passed": 0,
+          "failed": 2,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 79,
+          "passed": 26,
+          "failed": 53,
+          "gpa5": 0,
+          "pass_rate": 32.91
+        },
+        "Business Studies": {
+          "total": 7,
+          "passed": 1,
+          "failed": 6,
+          "gpa5": 0,
+          "pass_rate": 14.29
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 1,
+        "gpa_35_to_4": 4,
+        "gpa_3_to_35": 11,
+        "gpa_2_to_3": 10,
+        "gpa_1_to_2": 1,
+        "gpa_0": 61
+      }
+    },
+    {
+      "eiin": 118525,
+      "name": "Narail Govt. Mohila College",
+      "bengali_name": "নড়াইল সরকারি মহিলা কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "total_appeared": 412,
+      "total_passed": 159,
+      "total_failed": 253,
+      "pass_rate": 38.59,
+      "gpa5_count": 5,
+      "stream_summary": {
+        "Science": {
+          "total": 76,
+          "passed": 35,
+          "failed": 41,
+          "gpa5": 0,
+          "pass_rate": 46.05
+        },
+        "Humanities": {
+          "total": 325,
+          "passed": 121,
+          "failed": 204,
+          "gpa5": 5,
+          "pass_rate": 37.23
+        },
+        "Business Studies": {
+          "total": 11,
+          "passed": 3,
+          "failed": 8,
+          "gpa5": 0,
+          "pass_rate": 27.27
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 5,
+        "gpa_4_to_5": 26,
+        "gpa_35_to_4": 41,
+        "gpa_3_to_35": 48,
+        "gpa_2_to_3": 37,
+        "gpa_1_to_2": 2,
+        "gpa_0": 253
+      }
+    },
+    {
+      "eiin": 118526,
+      "name": "Abdul Hai City College",
+      "bengali_name": "আব্দুল হাই সিটি কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "total_appeared": 134,
+      "total_passed": 22,
+      "total_failed": 112,
+      "pass_rate": 16.42,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 31,
+          "passed": 8,
+          "failed": 23,
+          "gpa5": 0,
+          "pass_rate": 25.81
+        },
+        "Humanities": {
+          "total": 101,
+          "passed": 14,
+          "failed": 87,
+          "gpa5": 0,
+          "pass_rate": 13.86
+        },
+        "Business Studies": {
+          "total": 2,
+          "passed": 0,
+          "failed": 2,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 4,
+        "gpa_35_to_4": 3,
+        "gpa_3_to_35": 7,
+        "gpa_2_to_3": 7,
+        "gpa_1_to_2": 1,
+        "gpa_0": 112
+      }
+    },
+    {
+      "eiin": 118527,
+      "name": "Government Victoria College, Narail",
+      "bengali_name": "নড়াইল সরকারি ভিক্টোরিয়া কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 321",
+      "total_appeared": 873,
+      "total_passed": 538,
+      "total_failed": 335,
+      "pass_rate": 61.63,
+      "gpa5_count": 69,
+      "stream_summary": {
+        "Science": {
+          "total": 336,
+          "passed": 270,
+          "failed": 66,
+          "gpa5": 52,
+          "pass_rate": 80.36
+        },
+        "Humanities": {
+          "total": 347,
+          "passed": 223,
+          "failed": 124,
+          "gpa5": 15,
+          "pass_rate": 64.27
+        },
+        "Business Studies": {
+          "total": 190,
+          "passed": 45,
+          "failed": 145,
+          "gpa5": 2,
+          "pass_rate": 23.68
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 69,
+        "gpa_4_to_5": 180,
+        "gpa_35_to_4": 138,
+        "gpa_3_to_35": 95,
+        "gpa_2_to_3": 55,
+        "gpa_1_to_2": 1,
+        "gpa_0": 335
+      }
+    },
+    {
+      "eiin": 118528,
+      "name": "Gobra Mittra Mahabiddyalya",
+      "bengali_name": "গোবরা মিত্র মহাবিদ্যালয়",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 320",
+      "total_appeared": 185,
+      "total_passed": 69,
+      "total_failed": 116,
+      "pass_rate": 37.3,
+      "gpa5_count": 3,
+      "stream_summary": {
+        "Science": {
+          "total": 26,
+          "passed": 15,
+          "failed": 11,
+          "gpa5": 0,
+          "pass_rate": 57.69
+        },
+        "Humanities": {
+          "total": 151,
+          "passed": 51,
+          "failed": 100,
+          "gpa5": 3,
+          "pass_rate": 33.77
+        },
+        "Business Studies": {
+          "total": 8,
+          "passed": 3,
+          "failed": 5,
+          "gpa5": 0,
+          "pass_rate": 37.5
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 3,
+        "gpa_4_to_5": 20,
+        "gpa_35_to_4": 13,
+        "gpa_3_to_35": 24,
+        "gpa_2_to_3": 9,
+        "gpa_1_to_2": 0,
+        "gpa_0": 116
+      }
+    },
+    {
+      "eiin": 118529,
+      "name": "Ashar Allow Mohabiddaloy",
+      "bengali_name": "আশার আলো মহাবিদ্যালয়",
+      "upazila": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "total_appeared": 116,
+      "total_passed": 19,
+      "total_failed": 97,
+      "pass_rate": 16.38,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 21,
+          "passed": 3,
+          "failed": 18,
+          "gpa5": 0,
+          "pass_rate": 14.29
+        },
+        "Humanities": {
+          "total": 91,
+          "passed": 15,
+          "failed": 76,
+          "gpa5": 0,
+          "pass_rate": 16.48
+        },
+        "Business Studies": {
+          "total": 4,
+          "passed": 1,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 25.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 5,
+        "gpa_35_to_4": 3,
+        "gpa_3_to_35": 5,
+        "gpa_2_to_3": 6,
+        "gpa_1_to_2": 0,
+        "gpa_0": 97
+      }
+    },
+    {
+      "eiin": 118530,
+      "name": "Maijpara College",
+      "bengali_name": "মাইজপাড়া কলেজ",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "total_appeared": 300,
+      "total_passed": 99,
+      "total_failed": 201,
+      "pass_rate": 33.0,
+      "gpa5_count": 2,
+      "stream_summary": {
+        "Science": {
+          "total": 40,
+          "passed": 17,
+          "failed": 23,
+          "gpa5": 0,
+          "pass_rate": 42.5
+        },
+        "Humanities": {
+          "total": 247,
+          "passed": 77,
+          "failed": 170,
+          "gpa5": 2,
+          "pass_rate": 31.17
+        },
+        "Business Studies": {
+          "total": 13,
+          "passed": 5,
+          "failed": 8,
+          "gpa5": 0,
+          "pass_rate": 38.46
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 2,
+        "gpa_4_to_5": 18,
+        "gpa_35_to_4": 29,
+        "gpa_3_to_35": 32,
+        "gpa_2_to_3": 18,
+        "gpa_1_to_2": 0,
+        "gpa_0": 201
+      }
+    },
+    {
+      "eiin": 118531,
+      "name": "Habokhali Adarsha Mahabiddalay",
+      "bengali_name": "হাবোখালী আদর্শ মহাবিদ্যালয়",
+      "upazila": "Narail Sadar",
+      "center": "MAIJPARA - 364",
+      "total_appeared": 62,
+      "total_passed": 9,
+      "total_failed": 53,
+      "pass_rate": 14.52,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 7,
+          "passed": 1,
+          "failed": 6,
+          "gpa5": 0,
+          "pass_rate": 14.29
+        },
+        "Humanities": {
+          "total": 50,
+          "passed": 6,
+          "failed": 44,
+          "gpa5": 0,
+          "pass_rate": 12.0
+        },
+        "Business Studies": {
+          "total": 5,
+          "passed": 2,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 40.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 1,
+        "gpa_35_to_4": 2,
+        "gpa_3_to_35": 3,
+        "gpa_2_to_3": 3,
+        "gpa_1_to_2": 0,
+        "gpa_0": 53
+      }
+    },
+    {
+      "eiin": 131996,
+      "name": "Birshestra Noormohammad Mahabiddyalya",
+      "bengali_name": "বীরশ্রেষ্ঠ নূর মোহাম্মদ মহাবিদ্যালয়",
+      "upazila": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "total_appeared": 45,
+      "total_passed": 6,
+      "total_failed": 39,
+      "pass_rate": 13.33,
+      "gpa5_count": 0,
+      "stream_summary": {
+        "Science": {
+          "total": 4,
+          "passed": 0,
+          "failed": 4,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        },
+        "Humanities": {
+          "total": 38,
+          "passed": 6,
+          "failed": 32,
+          "gpa5": 0,
+          "pass_rate": 15.79
+        },
+        "Business Studies": {
+          "total": 3,
+          "passed": 0,
+          "failed": 3,
+          "gpa5": 0,
+          "pass_rate": 0.0
+        }
+      },
+      "gpa_distribution": {
+        "gpa_5": 0,
+        "gpa_4_to_5": 2,
+        "gpa_35_to_4": 0,
+        "gpa_3_to_35": 3,
+        "gpa_2_to_3": 1,
+        "gpa_1_to_2": 0,
+        "gpa_0": 39
+      }
+    }
+  ]
+}

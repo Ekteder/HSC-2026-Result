@@ -1,0 +1,5307 @@
+{
+  "eiin": 118523,
+  "college_name": "Ballartop Ideal College",
+  "name": "Ballartop Ideal College",
+  "bengali_name": "বাল্লারটোপ আইডিয়াল কলেজ",
+  "center": "NARAIL - 325",
+  "upazila": "Narail Sadar",
+  "upazila_detail": "Narail Sadar",
+  "established": "1994",
+  "total_registered": 70,
+  "total_appeared": 70,
+  "total_passed": 23,
+  "total_failed": 47,
+  "total_gpa5": 1,
+  "pass_rate": 32.86,
+  "participating_streams": [
+    "Business Studies",
+    "Humanities",
+    "Science"
+  ],
+  "stream_stats": {
+    "Science": {
+      "appeared": 18,
+      "passed": 10,
+      "failed": 8,
+      "gpa5": 0,
+      "absent": 1,
+      "expelled": 0,
+      "f1": 2,
+      "f2": 1,
+      "pass_rate": 55.56,
+      "roll_min": 517756,
+      "roll_max": 517773
+    },
+    "Humanities": {
+      "appeared": 47,
+      "passed": 13,
+      "failed": 34,
+      "gpa5": 1,
+      "absent": 2,
+      "expelled": 0,
+      "f1": 14,
+      "f2": 10,
+      "pass_rate": 27.66,
+      "roll_min": 666711,
+      "roll_max": 666757
+    },
+    "Business Studies": {
+      "appeared": 5,
+      "passed": 0,
+      "failed": 5,
+      "gpa5": 0,
+      "absent": 0,
+      "expelled": 0,
+      "f1": 5,
+      "f2": 0,
+      "pass_rate": 0.0,
+      "roll_min": 810399,
+      "roll_max": 810403
+    }
+  },
+  "gpa_breakdown": {
+    "gpa_5_0": 1,
+    "gpa_4_to_5": 4,
+    "gpa_3_5_to_4": 6,
+    "gpa_3_to_3_5": 9,
+    "gpa_2_to_3": 3,
+    "gpa_1_to_2": 0,
+    "failed_or_zero": 47,
+    "total": 70
+  },
+  "statistics": {
+    "total_registered": 70,
+    "total_appeared": 70,
+    "total_passed": 23,
+    "total_failed": 47,
+    "pass_rate": 32.86,
+    "gpa5_count": 1,
+    "stream_breakdown": {
+      "science": {
+        "appeared": 18,
+        "passed": 10,
+        "failed": 8,
+        "gpa5": 0,
+        "pass_rate": 55.56
+      },
+      "humanities": {
+        "appeared": 47,
+        "passed": 13,
+        "failed": 34,
+        "gpa5": 1,
+        "pass_rate": 27.66
+      },
+      "business_studies": {
+        "appeared": 5,
+        "passed": 0,
+        "failed": 5,
+        "gpa5": 0,
+        "pass_rate": 0.0
+      }
+    },
+    "gpa_distribution": {
+      "gpa_5": 1,
+      "gpa_4_to_5": 4,
+      "gpa_35_to_4": 6,
+      "gpa_3_to_35": 9,
+      "gpa_2_to_3": 3,
+      "gpa_1_to_2": 0,
+      "gpa_0": 47
+    }
+  },
+  "stream_summary": {
+    "Science": {
+      "total": 18,
+      "passed": 10,
+      "failed": 8,
+      "gpa5": 0,
+      "pass_rate": 55.56
+    },
+    "Humanities": {
+      "total": 47,
+      "passed": 13,
+      "failed": 34,
+      "gpa5": 1,
+      "pass_rate": 27.66
+    },
+    "Business Studies": {
+      "total": 5,
+      "passed": 0,
+      "failed": 5,
+      "gpa5": 0,
+      "pass_rate": 0.0
+    }
+  },
+  "students": [
+    {
+      "roll": "517756",
+      "regno": "",
+      "reg_no": "",
+      "name": "BIVA ALAM",
+      "father_name": "M M KAMRUL ALAM",
+      "mother_name": "KANIZE FATEMA",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.25",
+      "gpa": 4.25,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517757",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. SHAHARIA AKTER",
+      "father_name": "MD. ASKAN SIKDER",
+      "mother_name": "MST. SHAHINA PARVIN",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "517758",
+      "regno": "",
+      "reg_no": "",
+      "name": "BROTI MOHALDER",
+      "father_name": "BABLU KUMAR MOHALDER",
+      "mother_name": "PURNIMA RANI MOHALDER",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.25",
+      "gpa": 4.25,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517759",
+      "regno": "",
+      "reg_no": "",
+      "name": "NADIRA SULTANA",
+      "father_name": "MD. AKMAL HOSSAIN",
+      "mother_name": "RABEYA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.33",
+      "gpa": 4.33,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "517760",
+      "regno": "",
+      "reg_no": "",
+      "name": "SWARNALY BISWAS",
+      "father_name": "GOUTOM KUMAR BISWAS",
+      "mother_name": "SUNITA BISWAS",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "4.08",
+      "gpa": 4.08,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "517761",
+      "regno": "",
+      "reg_no": "",
+      "name": "JUMOUR PARVIN",
+      "father_name": "MD. SHARIFUL ISLAM",
+      "mother_name": "SURAIA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "517762",
+      "regno": "",
+      "reg_no": "",
+      "name": "ZEEM",
+      "father_name": "MD JAVED MOLLA",
+      "mother_name": "JHORNA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.25",
+      "gpa": 3.25,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "517763",
+      "regno": "",
+      "reg_no": "",
+      "name": "DOLA KHANOM",
+      "father_name": "MD DIDAR HOSSAIN SHEIKH",
+      "mother_name": "MST. HASINA KHANOM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "517764",
+      "regno": "",
+      "reg_no": "",
+      "name": "MUSHFIKA KHANOM",
+      "father_name": "MD.MOHASIN MOLLA",
+      "mother_name": "SAHAN BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.50",
+      "gpa": 3.5,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517765",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST. JEBUNNESA",
+      "father_name": "BM.MATINUR RAHMAN",
+      "mother_name": "MST.SABINA YEASMIN",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "517766",
+      "regno": "",
+      "reg_no": "",
+      "name": "JHUMUR",
+      "father_name": "MD.MOHIDUL ISLAM",
+      "mother_name": "NARGIS",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.75",
+      "gpa": 3.75,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517767",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMAYA AKTER SHIMU",
+      "father_name": "MD.SALIM HOSSAIN",
+      "mother_name": "NASIMA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "517768",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAKIB BISWAS",
+      "father_name": "MD.AKRAM HOSSAIN",
+      "mother_name": "MST.MOMENA BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517769",
+      "regno": "",
+      "reg_no": "",
+      "name": "BELLAL SHAKH",
+      "father_name": "MD. NUR ISLAM SHAKH",
+      "mother_name": "JUFRAN BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.17",
+      "gpa": 3.17,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517770",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD MAEEN MOJUMDER",
+      "father_name": "MD RAFIQUL ISLAM",
+      "mother_name": "SHEWLY BEGUM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.42",
+      "gpa": 3.42,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "517771",
+      "regno": "",
+      "reg_no": "",
+      "name": "B.M. EASIR HABIB",
+      "father_name": "ABU SAYED BISWAS",
+      "mother_name": "MONJUARA",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "517772",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAKIF AL HASAN",
+      "father_name": "M.M. MONIRUZZAMAN",
+      "mother_name": "SHAHANARA KHANAM",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.83",
+      "gpa": 2.83,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "174",
+          "name": "Physics",
+          "subject": "Physics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "176",
+          "name": "Chemistry",
+          "subject": "Chemistry",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "178",
+          "name": "Biology",
+          "subject": "Biology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "265",
+          "name": "Higher Mathematics",
+          "subject": "Higher Mathematics",
+          "grade": "F",
+          "point": 0.0
+        }
+      ]
+    },
+    {
+      "roll": "517773",
+      "regno": "",
+      "reg_no": "",
+      "name": "ANIK DAS",
+      "father_name": "PURAN CHADRO DAS",
+      "mother_name": "MUNJULIKA DAS",
+      "stream": "Science",
+      "group": "SCIENCE",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IMPROVEMENT",
+      "candidate_type": "IMPROVEMENT",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "666711",
+      "regno": "",
+      "reg_no": "",
+      "name": "UMMI HASIBA",
+      "father_name": "GAZI HASAN",
+      "mother_name": "MUNNI AKTAR LABONI",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666712",
+      "regno": "",
+      "reg_no": "",
+      "name": "SNEHA AKTER RIYA",
+      "father_name": "MD.ASLAM",
+      "mother_name": "PARUL ISLAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "666713",
+      "regno": "",
+      "reg_no": "",
+      "name": "SATHI RAY",
+      "father_name": "MAHANANDO RAY",
+      "mother_name": "MODHUMALA ROY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666714",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAMIA AKTER ESHA",
+      "father_name": "MD. EMDADUL HAQUE",
+      "mother_name": "HASI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.83",
+      "gpa": 3.83,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666715",
+      "regno": "",
+      "reg_no": "",
+      "name": "LABONNO KHATUN",
+      "father_name": "SARIF TOHINUR RAHMAN",
+      "mother_name": "MAST. NASRIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.33",
+      "gpa": 3.33,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666716",
+      "regno": "",
+      "reg_no": "",
+      "name": "TAJIN KHANAM",
+      "father_name": "ABDUL RAZZAQ MOLLA",
+      "mother_name": "MAFUJA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "5.00",
+      "gpa": 5.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666717",
+      "regno": "",
+      "reg_no": "",
+      "name": "TAMANNA KHANAM BRISTY",
+      "father_name": "MOHASIN ZOMADDAR",
+      "mother_name": "TASLIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.67",
+      "gpa": 3.67,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666718",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUMMA",
+      "father_name": "MD. SELIM SIKDER",
+      "mother_name": "NILUFAR YESMIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666719",
+      "regno": "",
+      "reg_no": "",
+      "name": "TUMPA KHANAM",
+      "father_name": "KAJI HARUN",
+      "mother_name": "SABINA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666720",
+      "regno": "",
+      "reg_no": "",
+      "name": "ISRAT JAHAN DISHA",
+      "father_name": "MD.NAZRUL ISLAM",
+      "mother_name": "HERA PARVIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.00",
+      "gpa": 3.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666721",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST.SUMONA AKTER RANI",
+      "father_name": "MD.MOFIZUR RAHMAN",
+      "mother_name": "RINA KHANUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.00",
+      "gpa": 3.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666722",
+      "regno": "",
+      "reg_no": "",
+      "name": "CHAITALI",
+      "father_name": "MUSTAK AHMED",
+      "mother_name": "SHILPI",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666723",
+      "regno": "",
+      "reg_no": "",
+      "name": "ZANNATUL MAUA",
+      "father_name": "K.M.ASERAFUL ANOURE",
+      "mother_name": "HOSENEARA KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.42",
+      "gpa": 3.42,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666724",
+      "regno": "",
+      "reg_no": "",
+      "name": "TARSINA KHANAM",
+      "father_name": "DELOWAR HOSSAIN",
+      "mother_name": "SALMA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666725",
+      "regno": "",
+      "reg_no": "",
+      "name": "MURSALINA",
+      "father_name": "SAIFUL SHEIKH",
+      "mother_name": "RUPALE KHANAM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666726",
+      "regno": "",
+      "reg_no": "",
+      "name": "ZANNATUL FERDAUS",
+      "father_name": "MD JAHANGIIR HOSSEN",
+      "mother_name": "EMROZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666727",
+      "regno": "",
+      "reg_no": "",
+      "name": "JANNATUL MAWA",
+      "father_name": "HARAJUL ISLAM",
+      "mother_name": "RASIDA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666728",
+      "regno": "",
+      "reg_no": "",
+      "name": "JHARNA BISWAS",
+      "father_name": "RANJIT BISWAS",
+      "mother_name": "JAYANTI BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666729",
+      "regno": "",
+      "reg_no": "",
+      "name": "MUKULI RANI ROY",
+      "father_name": "ANUP ROY",
+      "mother_name": "CHINA RANI ROY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666730",
+      "regno": "",
+      "reg_no": "",
+      "name": "DRISTY  RAJBONGSHI",
+      "father_name": "AJAY KUMER SIKDER",
+      "mother_name": "DEPTE RANI SIKDAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666731",
+      "regno": "",
+      "reg_no": "",
+      "name": "RITA KHANAM",
+      "father_name": "MD. ISRAFIL HOSSAIN KHAN",
+      "mother_name": "TASLIMA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666732",
+      "regno": "",
+      "reg_no": "",
+      "name": "LIZA KHANAM",
+      "father_name": "MD. HELAL SHEIKH",
+      "mother_name": "SHIKHA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666733",
+      "regno": "",
+      "reg_no": "",
+      "name": "SAMIA AKTAR",
+      "father_name": "MD. ALIM SHEIKH",
+      "mother_name": "RAZIA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666734",
+      "regno": "",
+      "reg_no": "",
+      "name": "JEBA KHANOM",
+      "father_name": "MD ZIAUR RAHMAN",
+      "mother_name": "ADARI",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "666735",
+      "regno": "",
+      "reg_no": "",
+      "name": "MST CHADNI",
+      "father_name": "SOHIDUL ISLAM KHAN",
+      "mother_name": "NARGIS BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666736",
+      "regno": "",
+      "reg_no": "",
+      "name": "APU BISWAS",
+      "father_name": "ANIRUDHA BISWAS",
+      "mother_name": "BIPORNA BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666737",
+      "regno": "",
+      "reg_no": "",
+      "name": "ARNAB BISWAS",
+      "father_name": "AMARESH BISWAS",
+      "mother_name": "SUCHANDA BISWAS",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666738",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.SHAHARIA NAFIZ MAMUN",
+      "father_name": "S.M. TARIKUJJAMAN",
+      "mother_name": "LAYLA NASRIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "ABSENT",
+      "result_status": "ABSENT",
+      "result": "ABSENT",
+      "raw_status": "Abst",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": []
+    },
+    {
+      "roll": "666739",
+      "regno": "",
+      "reg_no": "",
+      "name": "SHARIAR KOBIR",
+      "father_name": "KACHIBUR RAHMAN SIKDAR",
+      "mother_name": "MST.SHIULI BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.50",
+      "gpa": 3.5,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666740",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SHAWON",
+      "father_name": "BADSHA MOLLA",
+      "mother_name": "JORNA KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.17",
+      "gpa": 3.17,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666741",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAJJAD MOLLA",
+      "father_name": "MD. SHAHAJAN MOLLA",
+      "mother_name": "MST. NAJMIN BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666742",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.THASIN",
+      "father_name": "A.S.M.HADIUZZAMAN",
+      "mother_name": "JESMIN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.83",
+      "gpa": 2.83,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666743",
+      "regno": "",
+      "reg_no": "",
+      "name": "B.M. NUR ALAM",
+      "father_name": "MD. HADIAR BISWAS",
+      "mother_name": "MST. SHAHARA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666744",
+      "regno": "",
+      "reg_no": "",
+      "name": "PROTAP MOLLIK",
+      "father_name": "SREEPOTI MOLLIK",
+      "mother_name": "MADHURI ROY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.25",
+      "gpa": 3.25,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666745",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.TAMIM HOSSAIN",
+      "father_name": "MD.AMINUR RAHMAN",
+      "mother_name": "JESMEEN NAHAR",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "3.58",
+      "gpa": 3.58,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666746",
+      "regno": "",
+      "reg_no": "",
+      "name": "MINHAZUR RAHMAN",
+      "father_name": "MD NAZRUL KHAN",
+      "mother_name": "MAFUZA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666747",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.MINHAJUL ISLAM SIAM",
+      "father_name": "MD.MONIR HOSSEN",
+      "mother_name": "MST.SHABINA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666748",
+      "regno": "",
+      "reg_no": "",
+      "name": "SUHAN",
+      "father_name": "JUBAIER MOLLA",
+      "mother_name": "SHARMIN KHONOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666749",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. LIMON SHIKDAR",
+      "father_name": "MD. ABUL HOSSAIN.",
+      "mother_name": "CHAMPA BEGUM.",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2021-22",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A+",
+          "point": 5.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "666750",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.MONIBUL HAQUE",
+      "father_name": "MD.GEIAUL HAQUE",
+      "mother_name": "FATIMA KHANOM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "PASSED",
+      "result_status": "PASSED",
+      "result": "PASSED",
+      "raw_status": "2.58",
+      "gpa": 2.58,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666751",
+      "regno": "",
+      "reg_no": "",
+      "name": "SADIQUR RAHMAN",
+      "father_name": "NABIR HOSSAIN MOLLA",
+      "mother_name": "SABINA YESMIN",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "304",
+          "name": "History",
+          "subject": "History",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "B",
+          "point": 3.0
+        }
+      ]
+    },
+    {
+      "roll": "666752",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD. SAKIB MOLLA",
+      "father_name": "MD. ANISUZZAMAN",
+      "mother_name": "SOHELY",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666753",
+      "regno": "",
+      "reg_no": "",
+      "name": "MINHAZUR VUIA",
+      "father_name": "NUR ISLAM VUIA",
+      "mother_name": "MST. SAKALA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666754",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD.MINHAZUL ISLAM",
+      "father_name": "MD. JAHANGIR SHEIKH",
+      "mother_name": "NASIMA",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "code": "267",
+          "name": "Islamic History & Culture",
+          "subject": "Islamic History & Culture",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "666755",
+      "regno": "",
+      "reg_no": "",
+      "name": "MD YAMIN FOKIR",
+      "father_name": "MD SHAHID FOKIR",
+      "mother_name": "MARIAM BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F2",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "109",
+          "name": "Economics",
+          "subject": "Economics",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666756",
+      "regno": "",
+      "reg_no": "",
+      "name": "BIPLOB MUNSHI",
+      "father_name": "RAJU",
+      "mother_name": "ADARI",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "666757",
+      "regno": "",
+      "reg_no": "",
+      "name": "HASSAN KAZI",
+      "father_name": "MD.BAKKAR KAZI",
+      "mother_name": "SAYA BEGUM",
+      "stream": "Humanities",
+      "group": "HUMANITIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "Fail",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "117",
+          "name": "Sociology",
+          "subject": "Sociology",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "269",
+          "name": "Civics & Good Govern",
+          "subject": "Civics & Good Govern",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "125",
+          "name": "Geography",
+          "subject": "Geography",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Studies Of Islam",
+          "subject": "Studies Of Islam",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "810399",
+      "regno": "",
+      "reg_no": "",
+      "name": "LIZA",
+      "father_name": "RAZON MRIDHA RAZU",
+      "mother_name": "ZOLI KHANOM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A+",
+          "point": 5.0
+        }
+      ]
+    },
+    {
+      "roll": "810400",
+      "regno": "",
+      "reg_no": "",
+      "name": "MITHILA AKTER",
+      "father_name": "MD. MAHABUB ALAM",
+      "mother_name": "BEAUTI",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    },
+    {
+      "roll": "810401",
+      "regno": "",
+      "reg_no": "",
+      "name": "PROSANJEET RAY",
+      "father_name": "BARUN RAY",
+      "mother_name": "SAROTE RAY",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "passing_year": "2026",
+      "type": "REGULAR",
+      "candidate_type": "REGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "292",
+          "name": "Finance, Banking & Insurance",
+          "subject": "Finance, Banking & Insurance",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A",
+          "point": 4.0
+        }
+      ]
+    },
+    {
+      "roll": "810402",
+      "regno": "",
+      "reg_no": "",
+      "name": "OHIDUL KHANDOKAR",
+      "father_name": "MD. FARUK KHANDOKAR",
+      "mother_name": "MST. RINA BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2022-23",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "code": "286",
+          "name": "Production Management & Marketing",
+          "subject": "Production Management & Marketing",
+          "grade": "C",
+          "point": 2.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "239",
+          "name": "Agriculture Studies",
+          "subject": "Agriculture Studies",
+          "grade": "C",
+          "point": 2.0
+        }
+      ]
+    },
+    {
+      "roll": "810403",
+      "regno": "",
+      "reg_no": "",
+      "name": "BELLAL",
+      "father_name": "MD. EMDADUL HAQUE",
+      "mother_name": "HASI BEGUM",
+      "stream": "Business Studies",
+      "group": "BUSINESS STUDIES",
+      "session": "2023-24",
+      "passing_year": "2026",
+      "type": "IRREGULAR",
+      "candidate_type": "IRREGULAR",
+      "status": "FAILED",
+      "result_status": "FAILED",
+      "result": "FAILED",
+      "raw_status": "F1",
+      "gpa": 0.0,
+      "eiin": 118523,
+      "college_name": "Ballartop Ideal College",
+      "institute": "Ballartop Ideal College",
+      "upazila": "Narail Sadar",
+      "upazila_detail": "Narail Sadar",
+      "center": "NARAIL - 325",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "Bangla",
+          "subject": "Bangla",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "107",
+          "name": "English",
+          "subject": "English",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "code": "277",
+          "name": "Business Organization & Management",
+          "subject": "Business Organization & Management",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "253",
+          "name": "Accounting",
+          "subject": "Accounting",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "292",
+          "name": "Finance, Banking & Insurance",
+          "subject": "Finance, Banking & Insurance",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "code": "275",
+          "name": "Information & Communication Technology",
+          "subject": "Information & Communication Technology",
+          "grade": "A-",
+          "point": 3.5
+        },
+        {
+          "code": "",
+          "name": "Statistics",
+          "subject": "Statistics",
+          "grade": "A-",
+          "point": 3.5
+        }
+      ]
+    }
+  ]
+}

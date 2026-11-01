@@ -1,0 +1,1616 @@
+[
+  {
+    "eiin": 118382,
+    "college_name": "Monoranjan Kapuria College",
+    "bengali_name": "\u09ae\u09a8\u09cb\u09b0\u099e\u09cd\u099c\u09a8 \u0995\u09be\u09aa\u09c1\u09a1\u09bc\u09bf\u09af\u09bc\u09be \u0995\u09b2\u09c7\u099c",
+    "upazila": "Kalia",
+    "center": "PEROLY - 419",
+    "established": "1995",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 9,
+        "passed": 6,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 0,
+        "pass_rate": 66.67,
+        "roll_min": 517503,
+        "roll_max": 517511
+      },
+      "Humanities": {
+        "appeared": 124,
+        "passed": 22,
+        "failed": 102,
+        "gpa5": 0,
+        "absent": 4,
+        "expelled": 0,
+        "f1": 64,
+        "f2": 26,
+        "pass_rate": 17.74,
+        "roll_min": 664448,
+        "roll_max": 682134
+      },
+      "Business Studies": {
+        "appeared": 22,
+        "passed": 9,
+        "failed": 13,
+        "gpa5": 0,
+        "absent": 2,
+        "expelled": 0,
+        "f1": 6,
+        "f2": 3,
+        "pass_rate": 40.91,
+        "roll_min": 810146,
+        "roll_max": 810167
+      }
+    },
+    "total_appeared": 155,
+    "total_passed": 37,
+    "total_failed": 118,
+    "total_gpa5": 0,
+    "pass_rate": 23.87,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 5,
+      "gpa_3_5_to_4": 7,
+      "gpa_3_to_3_5": 16,
+      "gpa_2_to_3": 9,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 118,
+      "total": 155
+    }
+  },
+  {
+    "eiin": 118383,
+    "college_name": "Munshi Manik Mia College",
+    "bengali_name": "\u09ae\u09c1\u09a8\u09cd\u09b8\u09bf \u09ae\u09be\u09a8\u09bf\u0995 \u09ae\u09bf\u09af\u09bc\u09be \u09a1\u09bf\u0997\u09cd\u09b0\u09bf \u0995\u09b2\u09c7\u099c",
+    "upazila": "Kalia",
+    "center": "KALIA - 323",
+    "established": "1969",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 25,
+        "passed": 12,
+        "failed": 13,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 8,
+        "f2": 3,
+        "pass_rate": 48.0,
+        "roll_min": 517512,
+        "roll_max": 517536
+      },
+      "Humanities": {
+        "appeared": 250,
+        "passed": 73,
+        "failed": 177,
+        "gpa5": 1,
+        "absent": 5,
+        "expelled": 0,
+        "f1": 69,
+        "f2": 37,
+        "pass_rate": 29.2,
+        "roll_min": 664570,
+        "roll_max": 664819
+      },
+      "Business Studies": {
+        "appeared": 12,
+        "passed": 2,
+        "failed": 10,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 3,
+        "f2": 1,
+        "pass_rate": 16.67,
+        "roll_min": 810168,
+        "roll_max": 810179
+      }
+    },
+    "total_appeared": 287,
+    "total_passed": 87,
+    "total_failed": 200,
+    "total_gpa5": 1,
+    "pass_rate": 30.31,
+    "gpa_breakdown": {
+      "gpa_5_0": 1,
+      "gpa_4_to_5": 16,
+      "gpa_3_5_to_4": 16,
+      "gpa_3_to_3_5": 32,
+      "gpa_2_to_3": 22,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 200,
+      "total": 287
+    }
+  },
+  {
+    "eiin": 118385,
+    "college_name": "Govt. Shaheed Abdus Salam College",
+    "bengali_name": "\u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09b6\u09b9\u09c0\u09a6 \u0986\u09ac\u09cd\u09a6\u09c1\u09b8 \u09b8\u09be\u09b2\u09be\u09ae \u0995\u09b2\u09c7\u099c",
+    "upazila": "Kalia",
+    "center": "BARDIA - 324",
+    "established": "1972",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 30,
+        "passed": 10,
+        "failed": 20,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 7,
+        "f2": 5,
+        "pass_rate": 33.33,
+        "roll_min": 517545,
+        "roll_max": 517574
+      },
+      "Humanities": {
+        "appeared": 224,
+        "passed": 55,
+        "failed": 169,
+        "gpa5": 5,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 107,
+        "f2": 38,
+        "pass_rate": 24.55,
+        "roll_min": 664882,
+        "roll_max": 665105
+      },
+      "Business Studies": {
+        "appeared": 19,
+        "passed": 7,
+        "failed": 12,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 8,
+        "f2": 2,
+        "pass_rate": 36.84,
+        "roll_min": 810187,
+        "roll_max": 810205
+      }
+    },
+    "total_appeared": 273,
+    "total_passed": 72,
+    "total_failed": 201,
+    "total_gpa5": 5,
+    "pass_rate": 26.37,
+    "gpa_breakdown": {
+      "gpa_5_0": 5,
+      "gpa_4_to_5": 9,
+      "gpa_3_5_to_4": 19,
+      "gpa_3_to_3_5": 23,
+      "gpa_2_to_3": 15,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 201,
+      "total": 273
+    }
+  },
+  {
+    "eiin": 118386,
+    "college_name": "Habibul Alam Bir Protik College",
+    "bengali_name": "\u09b9\u09be\u09ac\u09bf\u09ac\u09c1\u09b2 \u0986\u09b2\u09ae \u09ac\u09c0\u09b0 \u09aa\u09cd\u09b0\u09a4\u09c0\u0995 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Kalia",
+    "center": "KALIA - 323",
+    "established": "2000",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 11,
+        "passed": 4,
+        "failed": 7,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 4,
+        "f2": 3,
+        "pass_rate": 36.36,
+        "roll_min": 517575,
+        "roll_max": 517585
+      },
+      "Humanities": {
+        "appeared": 144,
+        "passed": 37,
+        "failed": 107,
+        "gpa5": 0,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 48,
+        "f2": 28,
+        "pass_rate": 25.69,
+        "roll_min": 665106,
+        "roll_max": 665249
+      },
+      "Business Studies": {
+        "appeared": 11,
+        "passed": 8,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 2,
+        "pass_rate": 72.73,
+        "roll_min": 810206,
+        "roll_max": 810216
+      }
+    },
+    "total_appeared": 166,
+    "total_passed": 49,
+    "total_failed": 117,
+    "total_gpa5": 0,
+    "pass_rate": 29.52,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 2,
+      "gpa_3_5_to_4": 17,
+      "gpa_3_to_3_5": 19,
+      "gpa_2_to_3": 11,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 117,
+      "total": 166
+    }
+  },
+  {
+    "eiin": 118384,
+    "college_name": "Naragati College",
+    "bengali_name": "\u09a8\u09a1\u09bc\u09be\u0997\u09be\u09a4\u09c0 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Kalia (Naragati)",
+    "center": "BARDIA - 324",
+    "established": "1999",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 8,
+        "passed": 1,
+        "failed": 7,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 0,
+        "pass_rate": 12.5,
+        "roll_min": 517537,
+        "roll_max": 517544
+      },
+      "Humanities": {
+        "appeared": 62,
+        "passed": 13,
+        "failed": 49,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 37,
+        "f2": 9,
+        "pass_rate": 20.97,
+        "roll_min": 664820,
+        "roll_max": 664881
+      },
+      "Business Studies": {
+        "appeared": 7,
+        "passed": 1,
+        "failed": 6,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 4,
+        "f2": 0,
+        "pass_rate": 14.29,
+        "roll_min": 810180,
+        "roll_max": 810186
+      }
+    },
+    "total_appeared": 77,
+    "total_passed": 15,
+    "total_failed": 62,
+    "total_gpa5": 0,
+    "pass_rate": 19.48,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 0,
+      "gpa_3_5_to_4": 3,
+      "gpa_3_to_3_5": 3,
+      "gpa_2_to_3": 9,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 62,
+      "total": 77
+    }
+  },
+  {
+    "eiin": 118404,
+    "college_name": "Makrail Karim Khalek Solaiman Institution",
+    "bengali_name": "\u09ae\u09be\u0995\u09a1\u09bc\u09be\u0987\u09b2 \u0995\u09b0\u09bf\u09ae \u0996\u09be\u09b2\u09c7\u0995 \u09b8\u09cb\u09b2\u09be\u09af\u09bc\u09ae\u09be\u09a8 \u0987\u09a8\u09b8\u09cd\u099f\u09bf\u099f\u09bf\u0989\u09b6\u09a8",
+    "upazila": "Lohagara",
+    "center": "LOHAGARA - 418",
+    "established": "1968",
+    "participating_streams": [
+      "Humanities"
+    ],
+    "stream_stats": {
+      "Humanities": {
+        "appeared": 49,
+        "passed": 0,
+        "failed": 49,
+        "gpa5": 0,
+        "absent": 6,
+        "expelled": 0,
+        "f1": 12,
+        "f2": 6,
+        "pass_rate": 0.0,
+        "roll_min": 665250,
+        "roll_max": 682211
+      }
+    },
+    "total_appeared": 49,
+    "total_passed": 0,
+    "total_failed": 49,
+    "total_gpa5": 0,
+    "pass_rate": 0.0,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 0,
+      "gpa_3_5_to_4": 0,
+      "gpa_3_to_3_5": 0,
+      "gpa_2_to_3": 0,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 49,
+      "total": 49
+    }
+  },
+  {
+    "eiin": 118435,
+    "college_name": "Lahuria S.M.A. Ahad College",
+    "bengali_name": "\u09b2\u09be\u09b9\u09c1\u09a1\u09bc\u09bf\u09af\u09bc\u09be \u098f\u09b8.\u098f\u09ae.\u098f \u0986\u09b9\u09be\u09a6 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Lohagara",
+    "center": "NOHATA - 415",
+    "established": "1994",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 17,
+        "passed": 2,
+        "failed": 15,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 7,
+        "f2": 4,
+        "pass_rate": 11.76,
+        "roll_min": 517586,
+        "roll_max": 517602
+      },
+      "Humanities": {
+        "appeared": 225,
+        "passed": 55,
+        "failed": 170,
+        "gpa5": 0,
+        "absent": 7,
+        "expelled": 0,
+        "f1": 111,
+        "f2": 28,
+        "pass_rate": 24.44,
+        "roll_min": 665297,
+        "roll_max": 665521
+      },
+      "Business Studies": {
+        "appeared": 22,
+        "passed": 4,
+        "failed": 18,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 8,
+        "f2": 4,
+        "pass_rate": 18.18,
+        "roll_min": 810217,
+        "roll_max": 810238
+      }
+    },
+    "total_appeared": 264,
+    "total_passed": 61,
+    "total_failed": 203,
+    "total_gpa5": 0,
+    "pass_rate": 23.11,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 6,
+      "gpa_3_5_to_4": 16,
+      "gpa_3_to_3_5": 20,
+      "gpa_2_to_3": 18,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 203,
+      "total": 264
+    }
+  },
+  {
+    "eiin": 118436,
+    "college_name": "Laxmipasha Ideal Women College",
+    "bengali_name": "\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09be\u09b6\u09be \u0986\u09a6\u09b0\u09cd\u09b6 \u09ae\u09b9\u09bf\u09b2\u09be \u09a1\u09bf\u0997\u09cd\u09b0\u09bf \u0995\u09b2\u09c7\u099c",
+    "upazila": "Lohagara",
+    "center": "NABAGANGA - 412",
+    "established": "1993",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 9,
+        "passed": 5,
+        "failed": 4,
+        "gpa5": 2,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 1,
+        "f2": 0,
+        "pass_rate": 55.56,
+        "roll_min": 517603,
+        "roll_max": 517611
+      },
+      "Humanities": {
+        "appeared": 224,
+        "passed": 29,
+        "failed": 195,
+        "gpa5": 1,
+        "absent": 14,
+        "expelled": 0,
+        "f1": 89,
+        "f2": 39,
+        "pass_rate": 12.95,
+        "roll_min": 665522,
+        "roll_max": 665745
+      },
+      "Business Studies": {
+        "appeared": 3,
+        "passed": 0,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 1,
+        "f2": 1,
+        "pass_rate": 0.0,
+        "roll_min": 810239,
+        "roll_max": 810241
+      }
+    },
+    "total_appeared": 236,
+    "total_passed": 34,
+    "total_failed": 202,
+    "total_gpa5": 3,
+    "pass_rate": 14.41,
+    "gpa_breakdown": {
+      "gpa_5_0": 3,
+      "gpa_4_to_5": 1,
+      "gpa_3_5_to_4": 6,
+      "gpa_3_to_3_5": 13,
+      "gpa_2_to_3": 11,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 202,
+      "total": 236
+    }
+  },
+  {
+    "eiin": 118437,
+    "college_name": "Lohagara Govt. Adarsha College",
+    "bengali_name": "\u09b2\u09cb\u09b9\u09be\u0997\u09a1\u09bc\u09be \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u0986\u09a6\u09b0\u09cd\u09b6 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Lohagara",
+    "center": "LOHAGARA - 418",
+    "established": "1968",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 85,
+        "passed": 38,
+        "failed": 47,
+        "gpa5": 2,
+        "absent": 7,
+        "expelled": 0,
+        "f1": 17,
+        "f2": 13,
+        "pass_rate": 44.71,
+        "roll_min": 517612,
+        "roll_max": 517696
+      },
+      "Humanities": {
+        "appeared": 375,
+        "passed": 201,
+        "failed": 174,
+        "gpa5": 9,
+        "absent": 19,
+        "expelled": 1,
+        "f1": 83,
+        "f2": 47,
+        "pass_rate": 53.6,
+        "roll_min": 665746,
+        "roll_max": 666120
+      },
+      "Business Studies": {
+        "appeared": 120,
+        "passed": 46,
+        "failed": 74,
+        "gpa5": 2,
+        "absent": 8,
+        "expelled": 0,
+        "f1": 34,
+        "f2": 9,
+        "pass_rate": 38.33,
+        "roll_min": 810242,
+        "roll_max": 812518
+      }
+    },
+    "total_appeared": 580,
+    "total_passed": 285,
+    "total_failed": 295,
+    "total_gpa5": 13,
+    "pass_rate": 49.14,
+    "gpa_breakdown": {
+      "gpa_5_0": 13,
+      "gpa_4_to_5": 63,
+      "gpa_3_5_to_4": 82,
+      "gpa_3_to_3_5": 76,
+      "gpa_2_to_3": 49,
+      "gpa_1_to_2": 2,
+      "failed_or_zero": 295,
+      "total": 580
+    }
+  },
+  {
+    "eiin": 118438,
+    "college_name": "Nabaganga Mahavidyalaya",
+    "bengali_name": "\u09a8\u09ac\u0997\u0999\u09cd\u0997\u09be \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Lohagara",
+    "center": "LOHAGARA - 322",
+    "established": "1994",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 55,
+        "passed": 20,
+        "failed": 35,
+        "gpa5": 0,
+        "absent": 5,
+        "expelled": 0,
+        "f1": 20,
+        "f2": 4,
+        "pass_rate": 36.36,
+        "roll_min": 517697,
+        "roll_max": 522733
+      },
+      "Humanities": {
+        "appeared": 379,
+        "passed": 80,
+        "failed": 299,
+        "gpa5": 1,
+        "absent": 28,
+        "expelled": 2,
+        "f1": 136,
+        "f2": 74,
+        "pass_rate": 21.11,
+        "roll_min": 666121,
+        "roll_max": 682138
+      },
+      "Business Studies": {
+        "appeared": 19,
+        "passed": 6,
+        "failed": 13,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 7,
+        "f2": 4,
+        "pass_rate": 31.58,
+        "roll_min": 810361,
+        "roll_max": 810379
+      }
+    },
+    "total_appeared": 453,
+    "total_passed": 106,
+    "total_failed": 347,
+    "total_gpa5": 1,
+    "pass_rate": 23.4,
+    "gpa_breakdown": {
+      "gpa_5_0": 1,
+      "gpa_4_to_5": 17,
+      "gpa_3_5_to_4": 21,
+      "gpa_3_to_3_5": 40,
+      "gpa_2_to_3": 27,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 347,
+      "total": 453
+    }
+  },
+  {
+    "eiin": 118439,
+    "college_name": "Amada Adarsha College",
+    "bengali_name": "\u0986\u09ae\u09be\u09a6\u09be \u0986\u09a6\u09b0\u09cd\u09b6 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Lohagara",
+    "center": "NABAGANGA - 412",
+    "established": "2000",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 1,
+        "pass_rate": 0.0,
+        "roll_min": 517751,
+        "roll_max": 517751
+      },
+      "Humanities": {
+        "appeared": 29,
+        "passed": 7,
+        "failed": 22,
+        "gpa5": 0,
+        "absent": 2,
+        "expelled": 0,
+        "f1": 12,
+        "f2": 3,
+        "pass_rate": 24.14,
+        "roll_min": 666497,
+        "roll_max": 666525
+      },
+      "Business Studies": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 1,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 810380,
+        "roll_max": 810380
+      }
+    },
+    "total_appeared": 31,
+    "total_passed": 7,
+    "total_failed": 24,
+    "total_gpa5": 0,
+    "pass_rate": 22.58,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 0,
+      "gpa_3_5_to_4": 3,
+      "gpa_3_to_3_5": 0,
+      "gpa_2_to_3": 4,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 24,
+      "total": 31
+    }
+  },
+  {
+    "eiin": 118440,
+    "college_name": "Itna Higher Secondary School",
+    "bengali_name": "\u0987\u09a4\u09a8\u09be \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09bf\u0995 \u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc \u0993 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Lohagara",
+    "center": "LOHAGARA - 322",
+    "established": "1902",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities"
+    ],
+    "stream_stats": {
+      "Humanities": {
+        "appeared": 126,
+        "passed": 36,
+        "failed": 90,
+        "gpa5": 2,
+        "absent": 5,
+        "expelled": 0,
+        "f1": 44,
+        "f2": 24,
+        "pass_rate": 28.57,
+        "roll_min": 666526,
+        "roll_max": 682140
+      },
+      "Business Studies": {
+        "appeared": 12,
+        "passed": 5,
+        "failed": 7,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 3,
+        "pass_rate": 41.67,
+        "roll_min": 810381,
+        "roll_max": 810392
+      }
+    },
+    "total_appeared": 138,
+    "total_passed": 41,
+    "total_failed": 97,
+    "total_gpa5": 2,
+    "pass_rate": 29.71,
+    "gpa_breakdown": {
+      "gpa_5_0": 2,
+      "gpa_4_to_5": 7,
+      "gpa_3_5_to_4": 3,
+      "gpa_3_to_3_5": 15,
+      "gpa_2_to_3": 13,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 97,
+      "total": 138
+    }
+  },
+  {
+    "eiin": 118521,
+    "college_name": "Dakshin Narail Shimulia Mahabiddyalya",
+    "bengali_name": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u09b6\u09bf\u09ae\u09c1\u09b2\u09bf\u09af\u09bc\u09be \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 320",
+    "established": "1995",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 1,
+        "passed": 1,
+        "failed": 0,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 0,
+        "pass_rate": 100.0,
+        "roll_min": 517752,
+        "roll_max": 517752
+      },
+      "Humanities": {
+        "appeared": 41,
+        "passed": 7,
+        "failed": 34,
+        "gpa5": 0,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 16,
+        "f2": 14,
+        "pass_rate": 17.07,
+        "roll_min": 666650,
+        "roll_max": 666690
+      },
+      "Business Studies": {
+        "appeared": 5,
+        "passed": 2,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 0,
+        "pass_rate": 40.0,
+        "roll_min": 810393,
+        "roll_max": 810397
+      }
+    },
+    "total_appeared": 47,
+    "total_passed": 10,
+    "total_failed": 37,
+    "total_gpa5": 0,
+    "pass_rate": 21.28,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 1,
+      "gpa_3_5_to_4": 2,
+      "gpa_3_to_3_5": 6,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 37,
+      "total": 47
+    }
+  },
+  {
+    "eiin": 118522,
+    "college_name": "Juralia Bahumukhi Adarsa College",
+    "bengali_name": "\u099c\u09c1\u09b0\u09be\u09b2\u09bf\u09af\u09bc\u09be \u09ac\u09b9\u09c1\u09ae\u09c1\u0996\u09c0 \u0986\u09a6\u09b0\u09cd\u09b6 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "MAIJPARA - 364",
+    "established": "1994",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 3,
+        "passed": 0,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 517753,
+        "roll_max": 517755
+      },
+      "Humanities": {
+        "appeared": 20,
+        "passed": 1,
+        "failed": 19,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 4,
+        "f2": 5,
+        "pass_rate": 5.0,
+        "roll_min": 666691,
+        "roll_max": 666710
+      },
+      "Business Studies": {
+        "appeared": 1,
+        "passed": 0,
+        "failed": 1,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 1,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 810398,
+        "roll_max": 810398
+      }
+    },
+    "total_appeared": 24,
+    "total_passed": 1,
+    "total_failed": 23,
+    "total_gpa5": 0,
+    "pass_rate": 4.17,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 0,
+      "gpa_3_5_to_4": 0,
+      "gpa_3_to_3_5": 0,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 23,
+      "total": 24
+    }
+  },
+  {
+    "eiin": 118523,
+    "college_name": "Ballartop Ideal College",
+    "bengali_name": "\u09ac\u09be\u09b2\u09cd\u09b2\u09be\u09b0\u099f\u09cb\u09aa \u0986\u0987\u09a1\u09bf\u09af\u09bc\u09be\u09b2 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 325",
+    "established": "1994",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 18,
+        "passed": 10,
+        "failed": 8,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 1,
+        "pass_rate": 55.56,
+        "roll_min": 517756,
+        "roll_max": 517773
+      },
+      "Humanities": {
+        "appeared": 47,
+        "passed": 13,
+        "failed": 34,
+        "gpa5": 1,
+        "absent": 2,
+        "expelled": 0,
+        "f1": 14,
+        "f2": 10,
+        "pass_rate": 27.66,
+        "roll_min": 666711,
+        "roll_max": 666757
+      },
+      "Business Studies": {
+        "appeared": 5,
+        "passed": 0,
+        "failed": 5,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 5,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 810399,
+        "roll_max": 810403
+      }
+    },
+    "total_appeared": 70,
+    "total_passed": 23,
+    "total_failed": 47,
+    "total_gpa5": 1,
+    "pass_rate": 32.86,
+    "gpa_breakdown": {
+      "gpa_5_0": 1,
+      "gpa_4_to_5": 4,
+      "gpa_3_5_to_4": 6,
+      "gpa_3_to_3_5": 9,
+      "gpa_2_to_3": 3,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 47,
+      "total": 70
+    }
+  },
+  {
+    "eiin": 118524,
+    "college_name": "Mirzapur United College",
+    "bengali_name": "\u09ae\u09bf\u09b0\u09cd\u099c\u09be\u09aa\u09c1\u09b0 \u0987\u0989\u09a8\u09be\u0987\u099f\u09c7\u09a1 \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "AVOYNAGAR - 386",
+    "established": "1972",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 2,
+        "passed": 0,
+        "failed": 2,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 0,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 517774,
+        "roll_max": 517775
+      },
+      "Humanities": {
+        "appeared": 79,
+        "passed": 26,
+        "failed": 53,
+        "gpa5": 0,
+        "absent": 5,
+        "expelled": 0,
+        "f1": 23,
+        "f2": 13,
+        "pass_rate": 32.91,
+        "roll_min": 666758,
+        "roll_max": 666836
+      },
+      "Business Studies": {
+        "appeared": 7,
+        "passed": 1,
+        "failed": 6,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 3,
+        "f2": 1,
+        "pass_rate": 14.29,
+        "roll_min": 810404,
+        "roll_max": 810410
+      }
+    },
+    "total_appeared": 88,
+    "total_passed": 27,
+    "total_failed": 61,
+    "total_gpa5": 0,
+    "pass_rate": 30.68,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 1,
+      "gpa_3_5_to_4": 4,
+      "gpa_3_to_3_5": 11,
+      "gpa_2_to_3": 10,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 61,
+      "total": 88
+    }
+  },
+  {
+    "eiin": 118525,
+    "college_name": "Narail Govt. Mohila College",
+    "bengali_name": "\u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09ae\u09b9\u09bf\u09b2\u09be \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 320",
+    "established": "1986",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 76,
+        "passed": 35,
+        "failed": 41,
+        "gpa5": 0,
+        "absent": 6,
+        "expelled": 0,
+        "f1": 22,
+        "f2": 9,
+        "pass_rate": 46.05,
+        "roll_min": 517776,
+        "roll_max": 517851
+      },
+      "Humanities": {
+        "appeared": 325,
+        "passed": 121,
+        "failed": 204,
+        "gpa5": 5,
+        "absent": 22,
+        "expelled": 0,
+        "f1": 103,
+        "f2": 48,
+        "pass_rate": 37.23,
+        "roll_min": 666837,
+        "roll_max": 667161
+      },
+      "Business Studies": {
+        "appeared": 11,
+        "passed": 3,
+        "failed": 8,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 6,
+        "f2": 2,
+        "pass_rate": 27.27,
+        "roll_min": 810411,
+        "roll_max": 810421
+      }
+    },
+    "total_appeared": 412,
+    "total_passed": 159,
+    "total_failed": 253,
+    "total_gpa5": 5,
+    "pass_rate": 38.59,
+    "gpa_breakdown": {
+      "gpa_5_0": 5,
+      "gpa_4_to_5": 26,
+      "gpa_3_5_to_4": 41,
+      "gpa_3_to_3_5": 48,
+      "gpa_2_to_3": 37,
+      "gpa_1_to_2": 2,
+      "failed_or_zero": 253,
+      "total": 412
+    }
+  },
+  {
+    "eiin": 118526,
+    "college_name": "Abdul Hai City College",
+    "bengali_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u0987 \u09b8\u09bf\u099f\u09bf \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 320",
+    "established": "1999",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 31,
+        "passed": 8,
+        "failed": 23,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 12,
+        "f2": 5,
+        "pass_rate": 25.81,
+        "roll_min": 517852,
+        "roll_max": 517882
+      },
+      "Humanities": {
+        "appeared": 101,
+        "passed": 14,
+        "failed": 87,
+        "gpa5": 0,
+        "absent": 4,
+        "expelled": 0,
+        "f1": 50,
+        "f2": 24,
+        "pass_rate": 13.86,
+        "roll_min": 667162,
+        "roll_max": 682141
+      },
+      "Business Studies": {
+        "appeared": 2,
+        "passed": 0,
+        "failed": 2,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 810422,
+        "roll_max": 810423
+      }
+    },
+    "total_appeared": 134,
+    "total_passed": 22,
+    "total_failed": 112,
+    "total_gpa5": 0,
+    "pass_rate": 16.42,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 4,
+      "gpa_3_5_to_4": 3,
+      "gpa_3_to_3_5": 7,
+      "gpa_2_to_3": 7,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 112,
+      "total": 134
+    }
+  },
+  {
+    "eiin": 118527,
+    "college_name": "Government Victoria College, Narail",
+    "bengali_name": "\u09a8\u09a1\u09bc\u09be\u0987\u09b2 \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09ad\u09bf\u0995\u09cd\u099f\u09cb\u09b0\u09bf\u09af\u09bc\u09be \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 321",
+    "established": "1886",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 336,
+        "passed": 270,
+        "failed": 66,
+        "gpa5": 52,
+        "absent": 10,
+        "expelled": 0,
+        "f1": 33,
+        "f2": 14,
+        "pass_rate": 80.36,
+        "roll_min": 517883,
+        "roll_max": 518218
+      },
+      "Humanities": {
+        "appeared": 347,
+        "passed": 223,
+        "failed": 124,
+        "gpa5": 15,
+        "absent": 14,
+        "expelled": 0,
+        "f1": 76,
+        "f2": 19,
+        "pass_rate": 64.27,
+        "roll_min": 667262,
+        "roll_max": 667608
+      },
+      "Business Studies": {
+        "appeared": 190,
+        "passed": 45,
+        "failed": 145,
+        "gpa5": 2,
+        "absent": 17,
+        "expelled": 0,
+        "f1": 63,
+        "f2": 30,
+        "pass_rate": 23.68,
+        "roll_min": 810424,
+        "roll_max": 810613
+      }
+    },
+    "total_appeared": 873,
+    "total_passed": 538,
+    "total_failed": 335,
+    "total_gpa5": 69,
+    "pass_rate": 61.63,
+    "gpa_breakdown": {
+      "gpa_5_0": 69,
+      "gpa_4_to_5": 180,
+      "gpa_3_5_to_4": 138,
+      "gpa_3_to_3_5": 95,
+      "gpa_2_to_3": 55,
+      "gpa_1_to_2": 1,
+      "failed_or_zero": 335,
+      "total": 873
+    }
+  },
+  {
+    "eiin": 118528,
+    "college_name": "Gobra Mittra Mahabiddyalya",
+    "bengali_name": "\u0997\u09cb\u09ac\u09b0\u09be \u09ae\u09bf\u09a4\u09cd\u09b0 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 320",
+    "established": "1994",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 26,
+        "passed": 15,
+        "failed": 11,
+        "gpa5": 0,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 2,
+        "pass_rate": 57.69,
+        "roll_min": 518219,
+        "roll_max": 518244
+      },
+      "Humanities": {
+        "appeared": 151,
+        "passed": 51,
+        "failed": 100,
+        "gpa5": 3,
+        "absent": 7,
+        "expelled": 0,
+        "f1": 71,
+        "f2": 17,
+        "pass_rate": 33.77,
+        "roll_min": 667609,
+        "roll_max": 667759
+      },
+      "Business Studies": {
+        "appeared": 8,
+        "passed": 3,
+        "failed": 5,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 5,
+        "f2": 0,
+        "pass_rate": 37.5,
+        "roll_min": 810614,
+        "roll_max": 810621
+      }
+    },
+    "total_appeared": 185,
+    "total_passed": 69,
+    "total_failed": 116,
+    "total_gpa5": 3,
+    "pass_rate": 37.3,
+    "gpa_breakdown": {
+      "gpa_5_0": 3,
+      "gpa_4_to_5": 20,
+      "gpa_3_5_to_4": 13,
+      "gpa_3_to_3_5": 24,
+      "gpa_2_to_3": 9,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 116,
+      "total": 185
+    }
+  },
+  {
+    "eiin": 118529,
+    "college_name": "Ashar Allow Mohabiddaloy",
+    "bengali_name": "\u0986\u09b6\u09be\u09b0 \u0986\u09b2\u09cb \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Narail Sadar",
+    "center": "MAIJPARA - 364",
+    "established": "2000",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 21,
+        "passed": 3,
+        "failed": 18,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 6,
+        "f2": 3,
+        "pass_rate": 14.29,
+        "roll_min": 518245,
+        "roll_max": 518265
+      },
+      "Humanities": {
+        "appeared": 91,
+        "passed": 15,
+        "failed": 76,
+        "gpa5": 0,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 32,
+        "f2": 21,
+        "pass_rate": 16.48,
+        "roll_min": 667760,
+        "roll_max": 667850
+      },
+      "Business Studies": {
+        "appeared": 4,
+        "passed": 1,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 0,
+        "pass_rate": 25.0,
+        "roll_min": 810622,
+        "roll_max": 810625
+      }
+    },
+    "total_appeared": 116,
+    "total_passed": 19,
+    "total_failed": 97,
+    "total_gpa5": 0,
+    "pass_rate": 16.38,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 5,
+      "gpa_3_5_to_4": 3,
+      "gpa_3_to_3_5": 5,
+      "gpa_2_to_3": 6,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 97,
+      "total": 116
+    }
+  },
+  {
+    "eiin": 118530,
+    "college_name": "Maijpara College",
+    "bengali_name": "\u09ae\u09be\u0987\u099c\u09aa\u09be\u09a1\u09bc\u09be \u0995\u09b2\u09c7\u099c",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 325",
+    "established": "1999",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 40,
+        "passed": 17,
+        "failed": 23,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 14,
+        "f2": 5,
+        "pass_rate": 42.5,
+        "roll_min": 518266,
+        "roll_max": 518305
+      },
+      "Humanities": {
+        "appeared": 247,
+        "passed": 77,
+        "failed": 170,
+        "gpa5": 2,
+        "absent": 5,
+        "expelled": 0,
+        "f1": 78,
+        "f2": 52,
+        "pass_rate": 31.17,
+        "roll_min": 667851,
+        "roll_max": 668097
+      },
+      "Business Studies": {
+        "appeared": 13,
+        "passed": 5,
+        "failed": 8,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 8,
+        "f2": 0,
+        "pass_rate": 38.46,
+        "roll_min": 810626,
+        "roll_max": 810638
+      }
+    },
+    "total_appeared": 300,
+    "total_passed": 99,
+    "total_failed": 201,
+    "total_gpa5": 2,
+    "pass_rate": 33.0,
+    "gpa_breakdown": {
+      "gpa_5_0": 2,
+      "gpa_4_to_5": 18,
+      "gpa_3_5_to_4": 29,
+      "gpa_3_to_3_5": 32,
+      "gpa_2_to_3": 18,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 201,
+      "total": 300
+    }
+  },
+  {
+    "eiin": 118531,
+    "college_name": "Habokhali Adarsha Mahabiddalay",
+    "bengali_name": "\u09b9\u09be\u09ac\u09cb\u0996\u09be\u09b2\u09c0 \u0986\u09a6\u09b0\u09cd\u09b6 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Narail Sadar",
+    "center": "MAIJPARA - 364",
+    "established": "1999",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 7,
+        "passed": 1,
+        "failed": 6,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 3,
+        "f2": 2,
+        "pass_rate": 14.29,
+        "roll_min": 518306,
+        "roll_max": 518312
+      },
+      "Humanities": {
+        "appeared": 50,
+        "passed": 6,
+        "failed": 44,
+        "gpa5": 0,
+        "absent": 2,
+        "expelled": 0,
+        "f1": 23,
+        "f2": 13,
+        "pass_rate": 12.0,
+        "roll_min": 668098,
+        "roll_max": 668147
+      },
+      "Business Studies": {
+        "appeared": 5,
+        "passed": 2,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 1,
+        "pass_rate": 40.0,
+        "roll_min": 810639,
+        "roll_max": 810643
+      }
+    },
+    "total_appeared": 62,
+    "total_passed": 9,
+    "total_failed": 53,
+    "total_gpa5": 0,
+    "pass_rate": 14.52,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 1,
+      "gpa_3_5_to_4": 2,
+      "gpa_3_to_3_5": 3,
+      "gpa_2_to_3": 3,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 53,
+      "total": 62
+    }
+  },
+  {
+    "eiin": 131996,
+    "college_name": "Birshestra Noormohammad Mahabiddyalya",
+    "bengali_name": "\u09ac\u09c0\u09b0\u09b6\u09cd\u09b0\u09c7\u09b7\u09cd\u09a0 \u09a8\u09c2\u09b0 \u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6 \u09ae\u09b9\u09be\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc",
+    "upazila": "Narail Sadar",
+    "center": "NARAIL - 325",
+    "established": "2008",
+    "participating_streams": [
+      "Business Studies",
+      "Humanities",
+      "Science"
+    ],
+    "stream_stats": {
+      "Science": {
+        "appeared": 4,
+        "passed": 0,
+        "failed": 4,
+        "gpa5": 0,
+        "absent": 0,
+        "expelled": 0,
+        "f1": 2,
+        "f2": 2,
+        "pass_rate": 0.0,
+        "roll_min": 520753,
+        "roll_max": 520756
+      },
+      "Humanities": {
+        "appeared": 38,
+        "passed": 6,
+        "failed": 32,
+        "gpa5": 0,
+        "absent": 3,
+        "expelled": 0,
+        "f1": 18,
+        "f2": 7,
+        "pass_rate": 15.79,
+        "roll_min": 677474,
+        "roll_max": 682189
+      },
+      "Business Studies": {
+        "appeared": 3,
+        "passed": 0,
+        "failed": 3,
+        "gpa5": 0,
+        "absent": 1,
+        "expelled": 0,
+        "f1": 1,
+        "f2": 0,
+        "pass_rate": 0.0,
+        "roll_min": 811490,
+        "roll_max": 811492
+      }
+    },
+    "total_appeared": 45,
+    "total_passed": 6,
+    "total_failed": 39,
+    "total_gpa5": 0,
+    "pass_rate": 13.33,
+    "gpa_breakdown": {
+      "gpa_5_0": 0,
+      "gpa_4_to_5": 2,
+      "gpa_3_5_to_4": 0,
+      "gpa_3_to_3_5": 3,
+      "gpa_2_to_3": 1,
+      "gpa_1_to_2": 0,
+      "failed_or_zero": 39,
+      "total": 45
+    }
+  }
+]
